@@ -1,0 +1,11 @@
+{
+    "Dataset Name": "New Zealand Superannuation and Veteran's Pension data",
+    "Data Source": "https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/benefit/index.html",
+    "Description": "The New Zealand pension system comprises two main types of pensions: New Zealand Superannuation (NZS) and Veteran’s Pension (VP). The dataset provides information based on age, ethnicity, and gender, with a quarterly frequency. These factors likely play a significant role in determining pension eligibility and payment amounts.",
+    "Version": "1.0",
+    "Date": "The date column represents the end-of-quarter dates corresponding to the quarterly data in the dataset",
+    "Recipient characteristic": "Categorizes individuals based on the type of pension which are New Zealand Superannuation and Veteran's Pension.",
+    "Type": "Categorizes individuals based on characteristics such as Receipt of additional support, gender, age category, and ethnicity.",
+    "Subtype": "Categorizes Individuals based on specific characteristics corresponding to the ‘type’ column.",
+    "Observation": "The 'Observation' column records the count of individuals corresponding to each specific 'subtype' within its broader 'type' category, providing detailed frequency data for the classifications."
+}

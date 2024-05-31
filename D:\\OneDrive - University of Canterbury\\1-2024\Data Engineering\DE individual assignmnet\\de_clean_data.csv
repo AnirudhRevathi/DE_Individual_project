@@ -1,0 +1,883 @@
+Date,Recipient Characteristic,Type,Subtype,Observation
+Mar-19,New Zealand Superannuation,Gender,Male,359397
+Jun-19,New Zealand Superannuation,Gender,Male,362742
+Sep-19,New Zealand Superannuation,Gender,Male,365721
+Dec-19,New Zealand Superannuation,Gender,Male,369090
+Mar-20,New Zealand Superannuation,Gender,Male,372351
+Jun-20,New Zealand Superannuation,Gender,Male,375732
+Sep-20,New Zealand Superannuation,Gender,Male,380196
+Dec-20,New Zealand Superannuation,Gender,Male,383547
+Mar-21,New Zealand Superannuation,Gender,Male,386955
+Jun-21,New Zealand Superannuation,Gender,Male,389820
+Sep-21,New Zealand Superannuation,Gender,Male,393276
+Dec-21,New Zealand Superannuation,Gender,Male,395154
+Mar-22,New Zealand Superannuation,Gender,Male,398148
+Jun-22,New Zealand Superannuation,Gender,Male,400524
+Sep-22,New Zealand Superannuation,Gender,Male,404220
+Dec-22,New Zealand Superannuation,Gender,Male,405894
+Mar-23,New Zealand Superannuation,Gender,Male,409410
+Jun-23,New Zealand Superannuation,Gender,Male,413013
+Sep-23,New Zealand Superannuation,Gender,Male,417021
+Dec-23,New Zealand Superannuation,Gender,Male,420324
+Mar-24,New Zealand Superannuation,Gender,Male,424470
+Mar-19,New Zealand Superannuation,Gender,Female,415254
+Jun-19,New Zealand Superannuation,Gender,Female,418695
+Sep-19,New Zealand Superannuation,Gender,Female,421914
+Dec-19,New Zealand Superannuation,Gender,Female,425739
+Mar-20,New Zealand Superannuation,Gender,Female,429162
+Jun-20,New Zealand Superannuation,Gender,Female,433266
+Sep-20,New Zealand Superannuation,Gender,Female,438561
+Dec-20,New Zealand Superannuation,Gender,Female,442038
+Mar-21,New Zealand Superannuation,Gender,Female,444987
+Jun-21,New Zealand Superannuation,Gender,Female,447717
+Sep-21,New Zealand Superannuation,Gender,Female,450732
+Dec-21,New Zealand Superannuation,Gender,Female,452622
+Mar-22,New Zealand Superannuation,Gender,Female,455553
+Jun-22,New Zealand Superannuation,Gender,Female,457839
+Sep-22,New Zealand Superannuation,Gender,Female,461328
+Dec-22,New Zealand Superannuation,Gender,Female,463242
+Mar-23,New Zealand Superannuation,Gender,Female,466725
+Jun-23,New Zealand Superannuation,Gender,Female,470184
+Sep-23,New Zealand Superannuation,Gender,Female,474354
+Dec-23,New Zealand Superannuation,Gender,Female,477930
+Mar-24,New Zealand Superannuation,Gender,Female,482328
+Mar-19,New Zealand Superannuation,Gender,Gender Diverse,0
+Jun-19,New Zealand Superannuation,Gender,Gender Diverse,0
+Sep-19,New Zealand Superannuation,Gender,Gender Diverse,0
+Dec-19,New Zealand Superannuation,Gender,Gender Diverse,3
+Mar-20,New Zealand Superannuation,Gender,Gender Diverse,3
+Jun-20,New Zealand Superannuation,Gender,Gender Diverse,3
+Sep-20,New Zealand Superannuation,Gender,Gender Diverse,6
+Dec-20,New Zealand Superannuation,Gender,Gender Diverse,9
+Mar-21,New Zealand Superannuation,Gender,Gender Diverse,9
+Jun-21,New Zealand Superannuation,Gender,Gender Diverse,12
+Sep-21,New Zealand Superannuation,Gender,Gender Diverse,15
+Dec-21,New Zealand Superannuation,Gender,Gender Diverse,15
+Mar-22,New Zealand Superannuation,Gender,Gender Diverse,24
+Jun-22,New Zealand Superannuation,Gender,Gender Diverse,27
+Sep-22,New Zealand Superannuation,Gender,Gender Diverse,33
+Dec-22,New Zealand Superannuation,Gender,Gender Diverse,33
+Mar-23,New Zealand Superannuation,Gender,Gender Diverse,39
+Jun-23,New Zealand Superannuation,Gender,Gender Diverse,42
+Sep-23,New Zealand Superannuation,Gender,Gender Diverse,48
+Dec-23,New Zealand Superannuation,Gender,Gender Diverse,51
+Mar-24,New Zealand Superannuation,Gender,Gender Diverse,51
+Mar-19,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,41631
+Jun-19,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,42123
+Sep-19,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,42699
+Dec-19,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,43479
+Mar-20,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,44025
+Jun-20,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,44757
+Sep-20,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,45753
+Dec-20,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,46458
+Mar-21,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47148
+Jun-21,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,46740
+Sep-21,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47376
+Dec-21,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47535
+Mar-22,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47685
+Jun-22,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,46998
+Sep-22,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47313
+Dec-22,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47223
+Mar-23,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47985
+Jun-23,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,46881
+Sep-23,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47382
+Dec-23,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47823
+Mar-24,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,48570
+Mar-19,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127746
+Jun-19,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127638
+Sep-19,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127383
+Dec-19,New Zealand Superannuation,Receipt of additional support,Disability Allowance,128046
+Mar-20,New Zealand Superannuation,Receipt of additional support,Disability Allowance,128079
+Jun-20,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127899
+Sep-20,New Zealand Superannuation,Receipt of additional support,Disability Allowance,128673
+Dec-20,New Zealand Superannuation,Receipt of additional support,Disability Allowance,129576
+Mar-21,New Zealand Superannuation,Receipt of additional support,Disability Allowance,130323
+Jun-21,New Zealand Superannuation,Receipt of additional support,Disability Allowance,129402
+Sep-21,New Zealand Superannuation,Receipt of additional support,Disability Allowance,129726
+Dec-21,New Zealand Superannuation,Receipt of additional support,Disability Allowance,128940
+Mar-22,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127902
+Jun-22,New Zealand Superannuation,Receipt of additional support,Disability Allowance,126192
+Sep-22,New Zealand Superannuation,Receipt of additional support,Disability Allowance,126534
+Dec-22,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125688
+Mar-23,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125907
+Jun-23,New Zealand Superannuation,Receipt of additional support,Disability Allowance,126249
+Sep-23,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125949
+Dec-23,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125343
+Mar-24,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125190
+Mar-19,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,6579
+Jun-19,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,6933
+Sep-19,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,7356
+Dec-19,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,8052
+Mar-20,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,7983
+Jun-20,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,8850
+Sep-20,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9414
+Dec-20,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9216
+Mar-21,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9546
+Jun-21,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9039
+Sep-21,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9960
+Dec-21,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9951
+Mar-22,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,10440
+Jun-22,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,10257
+Sep-22,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,10794
+Dec-22,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,10917
+Mar-23,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,11688
+Jun-23,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,11169
+Sep-23,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,11706
+Dec-23,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,11877
+Mar-24,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,12597
+Mar-19,New Zealand Superannuation,Age Group,Under 60 years,3783
+Jun-19,New Zealand Superannuation,Age Group,Under 60 years,3819
+Sep-19,New Zealand Superannuation,Age Group,Under 60 years,3834
+Dec-19,New Zealand Superannuation,Age Group,Under 60 years,3858
+Mar-20,New Zealand Superannuation,Age Group,Under 60 years,3867
+Jun-20,New Zealand Superannuation,Age Group,Under 60 years,4005
+Sep-20,New Zealand Superannuation,Age Group,Under 60 years,4101
+Dec-20,New Zealand Superannuation,Age Group,Under 60 years,4041
+Mar-21,New Zealand Superannuation,Age Group,Under 60 years,3744
+Jun-21,New Zealand Superannuation,Age Group,Under 60 years,3456
+Sep-21,New Zealand Superannuation,Age Group,Under 60 years,3186
+Dec-21,New Zealand Superannuation,Age Group,Under 60 years,2889
+Mar-22,New Zealand Superannuation,Age Group,Under 60 years,2694
+Jun-22,New Zealand Superannuation,Age Group,Under 60 years,2469
+Sep-22,New Zealand Superannuation,Age Group,Under 60 years,2268
+Dec-22,New Zealand Superannuation,Age Group,Under 60 years,2082
+Mar-23,New Zealand Superannuation,Age Group,Under 60 years,1929
+Jun-23,New Zealand Superannuation,Age Group,Under 60 years,1767
+Sep-23,New Zealand Superannuation,Age Group,Under 60 years,1644
+Dec-23,New Zealand Superannuation,Age Group,Under 60 years,1509
+Mar-24,New Zealand Superannuation,Age Group,Under 60 years,1425
+Mar-19,New Zealand Superannuation,Age Group,60-64 years,11064
+Jun-19,New Zealand Superannuation,Age Group,60-64 years,11376
+Sep-19,New Zealand Superannuation,Age Group,60-64 years,11634
+Dec-19,New Zealand Superannuation,Age Group,60-64 years,11205
+Mar-20,New Zealand Superannuation,Age Group,60-64 years,11058
+Jun-20,New Zealand Superannuation,Age Group,60-64 years,11709
+Sep-20,New Zealand Superannuation,Age Group,60-64 years,12444
+Dec-20,New Zealand Superannuation,Age Group,60-64 years,12021
+Mar-21,New Zealand Superannuation,Age Group,60-64 years,11379
+Jun-21,New Zealand Superannuation,Age Group,60-64 years,11082
+Sep-21,New Zealand Superannuation,Age Group,60-64 years,11229
+Dec-21,New Zealand Superannuation,Age Group,60-64 years,9615
+Mar-22,New Zealand Superannuation,Age Group,60-64 years,9006
+Jun-22,New Zealand Superannuation,Age Group,60-64 years,8169
+Sep-22,New Zealand Superannuation,Age Group,60-64 years,9366
+Dec-22,New Zealand Superannuation,Age Group,60-64 years,6933
+Mar-23,New Zealand Superannuation,Age Group,60-64 years,6642
+Jun-23,New Zealand Superannuation,Age Group,60-64 years,7602
+Sep-23,New Zealand Superannuation,Age Group,60-64 years,8301
+Dec-23,New Zealand Superannuation,Age Group,60-64 years,7722
+Mar-24,New Zealand Superannuation,Age Group,60-64 years,8301
+Mar-19,New Zealand Superannuation,Age Group,65-69 years,235401
+Jun-19,New Zealand Superannuation,Age Group,65-69 years,236508
+Sep-19,New Zealand Superannuation,Age Group,65-69 years,237249
+Dec-19,New Zealand Superannuation,Age Group,65-69 years,237903
+Mar-20,New Zealand Superannuation,Age Group,65-69 years,238710
+Jun-20,New Zealand Superannuation,Age Group,65-69 years,239463
+Sep-20,New Zealand Superannuation,Age Group,65-69 years,241470
+Dec-20,New Zealand Superannuation,Age Group,65-69 years,242238
+Mar-21,New Zealand Superannuation,Age Group,65-69 years,243768
+Jun-21,New Zealand Superannuation,Age Group,65-69 years,245109
+Sep-21,New Zealand Superannuation,Age Group,65-69 years,246348
+Dec-21,New Zealand Superannuation,Age Group,65-69 years,246438
+Mar-22,New Zealand Superannuation,Age Group,65-69 years,247305
+Jun-22,New Zealand Superannuation,Age Group,65-69 years,248649
+Sep-22,New Zealand Superannuation,Age Group,65-69 years,250374
+Dec-22,New Zealand Superannuation,Age Group,65-69 years,251178
+Mar-23,New Zealand Superannuation,Age Group,65-69 years,252912
+Jun-23,New Zealand Superannuation,Age Group,65-69 years,254490
+Sep-23,New Zealand Superannuation,Age Group,65-69 years,256608
+Dec-23,New Zealand Superannuation,Age Group,65-69 years,258264
+Mar-24,New Zealand Superannuation,Age Group,65-69 years,260112
+Mar-19,New Zealand Superannuation,Age Group,70-74 years,207270
+Jun-19,New Zealand Superannuation,Age Group,70-74 years,209508
+Sep-19,New Zealand Superannuation,Age Group,70-74 years,211998
+Dec-19,New Zealand Superannuation,Age Group,70-74 years,215073
+Mar-20,New Zealand Superannuation,Age Group,70-74 years,217521
+Jun-20,New Zealand Superannuation,Age Group,70-74 years,219390
+Sep-20,New Zealand Superannuation,Age Group,70-74 years,221550
+Dec-20,New Zealand Superannuation,Age Group,70-74 years,223899
+Mar-21,New Zealand Superannuation,Age Group,70-74 years,225861
+Jun-21,New Zealand Superannuation,Age Group,70-74 years,227181
+Sep-21,New Zealand Superannuation,Age Group,70-74 years,227817
+Dec-21,New Zealand Superannuation,Age Group,70-74 years,227592
+Mar-22,New Zealand Superannuation,Age Group,70-74 years,227628
+Jun-22,New Zealand Superannuation,Age Group,70-74 years,228042
+Sep-22,New Zealand Superannuation,Age Group,70-74 years,228453
+Dec-22,New Zealand Superannuation,Age Group,70-74 years,228909
+Mar-23,New Zealand Superannuation,Age Group,70-74 years,229374
+Jun-23,New Zealand Superannuation,Age Group,70-74 years,229587
+Sep-23,New Zealand Superannuation,Age Group,70-74 years,230625
+Dec-23,New Zealand Superannuation,Age Group,70-74 years,231468
+Mar-24,New Zealand Superannuation,Age Group,70-74 years,232914
+Mar-19,New Zealand Superannuation,Age Group,75-79 years,144906
+Jun-19,New Zealand Superannuation,Age Group,75-79 years,146784
+Sep-19,New Zealand Superannuation,Age Group,75-79 years,147975
+Dec-19,New Zealand Superannuation,Age Group,75-79 years,149145
+Mar-20,New Zealand Superannuation,Age Group,75-79 years,150591
+Jun-20,New Zealand Superannuation,Age Group,75-79 years,152340
+Sep-20,New Zealand Superannuation,Age Group,75-79 years,153810
+Dec-20,New Zealand Superannuation,Age Group,75-79 years,154923
+Mar-21,New Zealand Superannuation,Age Group,75-79 years,156258
+Jun-21,New Zealand Superannuation,Age Group,75-79 years,157599
+Sep-21,New Zealand Superannuation,Age Group,75-79 years,159999
+Dec-21,New Zealand Superannuation,Age Group,75-79 years,162966
+Mar-22,New Zealand Superannuation,Age Group,75-79 years,166140
+Jun-22,New Zealand Superannuation,Age Group,75-79 years,168450
+Sep-22,New Zealand Superannuation,Age Group,75-79 years,171423
+Dec-22,New Zealand Superannuation,Age Group,75-79 years,174840
+Mar-23,New Zealand Superannuation,Age Group,75-79 years,178602
+Jun-23,New Zealand Superannuation,Age Group,75-79 years,181749
+Sep-23,New Zealand Superannuation,Age Group,75-79 years,184119
+Dec-23,New Zealand Superannuation,Age Group,75-79 years,186903
+Mar-24,New Zealand Superannuation,Age Group,75-79 years,189303
+Mar-19,New Zealand Superannuation,Age Group,80-84 years,89922
+Jun-19,New Zealand Superannuation,Age Group,80-84 years,90792
+Sep-19,New Zealand Superannuation,Age Group,80-84 years,92184
+Dec-19,New Zealand Superannuation,Age Group,80-84 years,94131
+Mar-20,New Zealand Superannuation,Age Group,80-84 years,95556
+Jun-20,New Zealand Superannuation,Age Group,80-84 years,97371
+Sep-20,New Zealand Superannuation,Age Group,80-84 years,100020
+Dec-20,New Zealand Superannuation,Age Group,80-84 years,102204
+Mar-21,New Zealand Superannuation,Age Group,80-84 years,103884
+Jun-21,New Zealand Superannuation,Age Group,80-84 years,105639
+Sep-21,New Zealand Superannuation,Age Group,80-84 years,107607
+Dec-21,New Zealand Superannuation,Age Group,80-84 years,109605
+Mar-22,New Zealand Superannuation,Age Group,80-84 years,111600
+Jun-22,New Zealand Superannuation,Age Group,80-84 years,112944
+Sep-22,New Zealand Superannuation,Age Group,80-84 years,114054
+Dec-22,New Zealand Superannuation,Age Group,80-84 years,114633
+Mar-23,New Zealand Superannuation,Age Group,80-84 years,115233
+Jun-23,New Zealand Superannuation,Age Group,80-84 years,115794
+Sep-23,New Zealand Superannuation,Age Group,80-84 years,117141
+Dec-23,New Zealand Superannuation,Age Group,80-84 years,118404
+Mar-24,New Zealand Superannuation,Age Group,80-84 years,119703
+Mar-19,New Zealand Superannuation,Age Group,85-89 years,53628
+Jun-19,New Zealand Superannuation,Age Group,85-89 years,53679
+Sep-19,New Zealand Superannuation,Age Group,85-89 years,53730
+Dec-19,New Zealand Superannuation,Age Group,85-89 years,54021
+Mar-20,New Zealand Superannuation,Age Group,85-89 years,54258
+Jun-20,New Zealand Superannuation,Age Group,85-89 years,54366
+Sep-20,New Zealand Superannuation,Age Group,85-89 years,54483
+Dec-20,New Zealand Superannuation,Age Group,85-89 years,54867
+Mar-21,New Zealand Superannuation,Age Group,85-89 years,55254
+Jun-21,New Zealand Superannuation,Age Group,85-89 years,55422
+Sep-21,New Zealand Superannuation,Age Group,85-89 years,55824
+Dec-21,New Zealand Superannuation,Age Group,85-89 years,56265
+Mar-22,New Zealand Superannuation,Age Group,85-89 years,56766
+Jun-22,New Zealand Superannuation,Age Group,85-89 years,57174
+Sep-22,New Zealand Superannuation,Age Group,85-89 years,57468
+Dec-22,New Zealand Superannuation,Age Group,85-89 years,58278
+Mar-23,New Zealand Superannuation,Age Group,85-89 years,58950
+Jun-23,New Zealand Superannuation,Age Group,85-89 years,59595
+Sep-23,New Zealand Superannuation,Age Group,85-89 years,60378
+Dec-23,New Zealand Superannuation,Age Group,85-89 years,61284
+Mar-24,New Zealand Superannuation,Age Group,85-89 years,62106
+Mar-19,New Zealand Superannuation,Age Group,90 years and over,28677
+Jun-19,New Zealand Superannuation,Age Group,90 years and over,28965
+Sep-19,New Zealand Superannuation,Age Group,90 years and over,29034
+Dec-19,New Zealand Superannuation,Age Group,90 years and over,29493
+Mar-20,New Zealand Superannuation,Age Group,90 years and over,29955
+Jun-20,New Zealand Superannuation,Age Group,90 years and over,30354
+Sep-20,New Zealand Superannuation,Age Group,90 years and over,30888
+Dec-20,New Zealand Superannuation,Age Group,90 years and over,31392
+Mar-21,New Zealand Superannuation,Age Group,90 years and over,31806
+Jun-21,New Zealand Superannuation,Age Group,90 years and over,32064
+Sep-21,New Zealand Superannuation,Age Group,90 years and over,32010
+Dec-21,New Zealand Superannuation,Age Group,90 years and over,32427
+Mar-22,New Zealand Superannuation,Age Group,90 years and over,32589
+Jun-22,New Zealand Superannuation,Age Group,90 years and over,32490
+Sep-22,New Zealand Superannuation,Age Group,90 years and over,32169
+Dec-22,New Zealand Superannuation,Age Group,90 years and over,32322
+Mar-23,New Zealand Superannuation,Age Group,90 years and over,32529
+Jun-23,New Zealand Superannuation,Age Group,90 years and over,32655
+Sep-23,New Zealand Superannuation,Age Group,90 years and over,32610
+Dec-23,New Zealand Superannuation,Age Group,90 years and over,32748
+Mar-24,New Zealand Superannuation,Age Group,90 years and over,32988
+Mar-19,New Zealand Superannuation,Ethinicity,European,563811
+Jun-19,New Zealand Superannuation,Ethinicity,European,568887
+Sep-19,New Zealand Superannuation,Ethinicity,European,573900
+Dec-19,New Zealand Superannuation,Ethinicity,European,579324
+Mar-20,New Zealand Superannuation,Ethinicity,European,584505
+Jun-20,New Zealand Superannuation,Ethinicity,European,590334
+Sep-20,New Zealand Superannuation,Ethinicity,European,597537
+Dec-20,New Zealand Superannuation,Ethinicity,European,602979
+Mar-21,New Zealand Superannuation,Ethinicity,European,608121
+Jun-21,New Zealand Superannuation,Ethinicity,European,612891
+Sep-21,New Zealand Superannuation,Ethinicity,European,618423
+Dec-21,New Zealand Superannuation,Ethinicity,European,621960
+Mar-22,New Zealand Superannuation,Ethinicity,European,626667
+Jun-22,New Zealand Superannuation,Ethinicity,European,630675
+Sep-22,New Zealand Superannuation,Ethinicity,European,636489
+Dec-22,New Zealand Superannuation,Ethinicity,European,639486
+Mar-23,New Zealand Superannuation,Ethinicity,European,644619
+Jun-23,New Zealand Superannuation,Ethinicity,European,649989
+Sep-23,New Zealand Superannuation,Ethinicity,European,655824
+Dec-23,New Zealand Superannuation,Ethinicity,European,660807
+Mar-24,New Zealand Superannuation,Ethinicity,European,666687
+Mar-19,New Zealand Superannuation,Ethinicity,Māori,43500
+Jun-19,New Zealand Superannuation,Ethinicity,Māori,44112
+Sep-19,New Zealand Superannuation,Ethinicity,Māori,44733
+Dec-19,New Zealand Superannuation,Ethinicity,Māori,45468
+Mar-20,New Zealand Superannuation,Ethinicity,Māori,46107
+Jun-20,New Zealand Superannuation,Ethinicity,Māori,46791
+Sep-20,New Zealand Superannuation,Ethinicity,Māori,47820
+Dec-20,New Zealand Superannuation,Ethinicity,Māori,48561
+Mar-21,New Zealand Superannuation,Ethinicity,Māori,49152
+Jun-21,New Zealand Superannuation,Ethinicity,Māori,49878
+Sep-21,New Zealand Superannuation,Ethinicity,Māori,50700
+Dec-21,New Zealand Superannuation,Ethinicity,Māori,51303
+Mar-22,New Zealand Superannuation,Ethinicity,Māori,52041
+Jun-22,New Zealand Superannuation,Ethinicity,Māori,52773
+Sep-22,New Zealand Superannuation,Ethinicity,Māori,53634
+Dec-22,New Zealand Superannuation,Ethinicity,Māori,54324
+Mar-23,New Zealand Superannuation,Ethinicity,Māori,55224
+Jun-23,New Zealand Superannuation,Ethinicity,Māori,55950
+Sep-23,New Zealand Superannuation,Ethinicity,Māori,57042
+Dec-23,New Zealand Superannuation,Ethinicity,Māori,58053
+Mar-24,New Zealand Superannuation,Ethinicity,Māori,59088
+Mar-19,New Zealand Superannuation,Ethinicity,Pacific Peoples,22128
+Jun-19,New Zealand Superannuation,Ethinicity,Pacific Peoples,22488
+Sep-19,New Zealand Superannuation,Ethinicity,Pacific Peoples,22737
+Dec-19,New Zealand Superannuation,Ethinicity,Pacific Peoples,23106
+Mar-20,New Zealand Superannuation,Ethinicity,Pacific Peoples,23352
+Jun-20,New Zealand Superannuation,Ethinicity,Pacific Peoples,23694
+Sep-20,New Zealand Superannuation,Ethinicity,Pacific Peoples,24111
+Dec-20,New Zealand Superannuation,Ethinicity,Pacific Peoples,24381
+Mar-21,New Zealand Superannuation,Ethinicity,Pacific Peoples,24645
+Jun-21,New Zealand Superannuation,Ethinicity,Pacific Peoples,24690
+Sep-21,New Zealand Superannuation,Ethinicity,Pacific Peoples,24924
+Dec-21,New Zealand Superannuation,Ethinicity,Pacific Peoples,24909
+Mar-22,New Zealand Superannuation,Ethinicity,Pacific Peoples,25233
+Jun-22,New Zealand Superannuation,Ethinicity,Pacific Peoples,25425
+Sep-22,New Zealand Superannuation,Ethinicity,Pacific Peoples,25680
+Dec-22,New Zealand Superannuation,Ethinicity,Pacific Peoples,25839
+Mar-23,New Zealand Superannuation,Ethinicity,Pacific Peoples,26157
+Jun-23,New Zealand Superannuation,Ethinicity,Pacific Peoples,26400
+Sep-23,New Zealand Superannuation,Ethinicity,Pacific Peoples,26772
+Dec-23,New Zealand Superannuation,Ethinicity,Pacific Peoples,27063
+Mar-24,New Zealand Superannuation,Ethinicity,Pacific Peoples,27438
+Mar-19,New Zealand Superannuation,Ethinicity,Asian,38022
+Jun-19,New Zealand Superannuation,Ethinicity,Asian,38910
+Sep-19,New Zealand Superannuation,Ethinicity,Asian,39768
+Dec-19,New Zealand Superannuation,Ethinicity,Asian,40746
+Mar-20,New Zealand Superannuation,Ethinicity,Asian,41652
+Jun-20,New Zealand Superannuation,Ethinicity,Asian,42537
+Sep-20,New Zealand Superannuation,Ethinicity,Asian,43737
+Dec-20,New Zealand Superannuation,Ethinicity,Asian,44709
+Mar-21,New Zealand Superannuation,Ethinicity,Asian,45531
+Jun-21,New Zealand Superannuation,Ethinicity,Asian,46248
+Sep-21,New Zealand Superannuation,Ethinicity,Asian,47268
+Dec-21,New Zealand Superannuation,Ethinicity,Asian,47943
+Mar-22,New Zealand Superannuation,Ethinicity,Asian,49002
+Jun-22,New Zealand Superannuation,Ethinicity,Asian,50046
+Sep-22,New Zealand Superannuation,Ethinicity,Asian,51294
+Dec-22,New Zealand Superannuation,Ethinicity,Asian,52194
+Mar-23,New Zealand Superannuation,Ethinicity,Asian,53379
+Jun-23,New Zealand Superannuation,Ethinicity,Asian,54438
+Sep-23,New Zealand Superannuation,Ethinicity,Asian,55632
+Dec-23,New Zealand Superannuation,Ethinicity,Asian,56598
+Mar-24,New Zealand Superannuation,Ethinicity,Asian,57774
+Mar-19,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,2772
+Jun-19,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,2901
+Sep-19,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,3114
+Dec-19,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,3306
+Mar-20,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,3465
+Jun-20,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,3741
+Sep-20,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4095
+Dec-20,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4398
+Mar-21,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4626
+Jun-21,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4719
+Sep-21,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4776
+Dec-21,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4815
+Mar-22,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4887
+Jun-22,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4944
+Sep-22,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5046
+Dec-22,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5109
+Mar-23,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5220
+Jun-23,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5322
+Sep-23,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5427
+Dec-23,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5481
+Mar-24,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5589
+Mar-19,New Zealand Superannuation,Ethinicity,Other ethnicity,11997
+Jun-19,New Zealand Superannuation,Ethinicity,Other ethnicity,12318
+Sep-19,New Zealand Superannuation,Ethinicity,Other ethnicity,12597
+Dec-19,New Zealand Superannuation,Ethinicity,Other ethnicity,12948
+Mar-20,New Zealand Superannuation,Ethinicity,Other ethnicity,13284
+Jun-20,New Zealand Superannuation,Ethinicity,Other ethnicity,13737
+Sep-20,New Zealand Superannuation,Ethinicity,Other ethnicity,14262
+Dec-20,New Zealand Superannuation,Ethinicity,Other ethnicity,14709
+Mar-21,New Zealand Superannuation,Ethinicity,Other ethnicity,15096
+Jun-21,New Zealand Superannuation,Ethinicity,Other ethnicity,15429
+Sep-21,New Zealand Superannuation,Ethinicity,Other ethnicity,15900
+Dec-21,New Zealand Superannuation,Ethinicity,Other ethnicity,16227
+Mar-22,New Zealand Superannuation,Ethinicity,Other ethnicity,16680
+Jun-22,New Zealand Superannuation,Ethinicity,Other ethnicity,17187
+Sep-22,New Zealand Superannuation,Ethinicity,Other ethnicity,17757
+Dec-22,New Zealand Superannuation,Ethinicity,Other ethnicity,18105
+Mar-23,New Zealand Superannuation,Ethinicity,Other ethnicity,18633
+Jun-23,New Zealand Superannuation,Ethinicity,Other ethnicity,19137
+Sep-23,New Zealand Superannuation,Ethinicity,Other ethnicity,19722
+Dec-23,New Zealand Superannuation,Ethinicity,Other ethnicity,20247
+Mar-24,New Zealand Superannuation,Ethinicity,Other ethnicity,20808
+Mar-19,New Zealand Superannuation,Ethinicity,Ethnicity not specified,107577
+Jun-19,New Zealand Superannuation,Ethinicity,Ethnicity not specified,107445
+Sep-19,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106959
+Dec-19,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106734
+Mar-20,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106563
+Jun-20,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106263
+Sep-20,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106245
+Dec-20,New Zealand Superannuation,Ethinicity,Ethnicity not specified,105702
+Mar-21,New Zealand Superannuation,Ethinicity,Ethnicity not specified,105357
+Jun-21,New Zealand Superannuation,Ethinicity,Ethnicity not specified,104973
+Sep-21,New Zealand Superannuation,Ethinicity,Ethnicity not specified,104058
+Dec-21,New Zealand Superannuation,Ethinicity,Ethnicity not specified,103236
+Mar-22,New Zealand Superannuation,Ethinicity,Ethnicity not specified,102504
+Jun-22,New Zealand Superannuation,Ethinicity,Ethnicity not specified,101397
+Sep-22,New Zealand Superannuation,Ethinicity,Ethnicity not specified,100617
+Dec-22,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99738
+Mar-23,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99369
+Jun-23,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99228
+Sep-23,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99207
+Dec-23,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99138
+Mar-24,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99414
+Mar-19,Veteran's Pension,Gender,Male,3492
+Jun-19,Veteran's Pension,Gender,Male,3438
+Sep-19,Veteran's Pension,Gender,Male,3363
+Dec-19,Veteran's Pension,Gender,Male,3312
+Mar-20,Veteran's Pension,Gender,Male,3264
+Jun-20,Veteran's Pension,Gender,Male,3201
+Sep-20,Veteran's Pension,Gender,Male,3231
+Dec-20,Veteran's Pension,Gender,Male,3213
+Mar-21,Veteran's Pension,Gender,Male,3192
+Jun-21,Veteran's Pension,Gender,Male,3144
+Sep-21,Veteran's Pension,Gender,Male,3090
+Dec-21,Veteran's Pension,Gender,Male,3051
+Mar-22,Veteran's Pension,Gender,Male,3009
+Jun-22,Veteran's Pension,Gender,Male,3009
+Sep-22,Veteran's Pension,Gender,Male,2967
+Dec-22,Veteran's Pension,Gender,Male,2958
+Mar-23,Veteran's Pension,Gender,Male,2916
+Jun-23,Veteran's Pension,Gender,Male,2865
+Sep-23,Veteran's Pension,Gender,Male,2877
+Dec-23,Veteran's Pension,Gender,Male,2856
+Mar-24,Veteran's Pension,Gender,Male,2853
+Mar-19,Veteran's Pension,Gender,Female,3615
+Jun-19,Veteran's Pension,Gender,Female,3528
+Sep-19,Veteran's Pension,Gender,Female,3417
+Dec-19,Veteran's Pension,Gender,Female,3342
+Mar-20,Veteran's Pension,Gender,Female,3270
+Jun-20,Veteran's Pension,Gender,Female,3189
+Sep-20,Veteran's Pension,Gender,Female,3099
+Dec-20,Veteran's Pension,Gender,Female,3051
+Mar-21,Veteran's Pension,Gender,Female,2970
+Jun-21,Veteran's Pension,Gender,Female,2886
+Sep-21,Veteran's Pension,Gender,Female,2793
+Dec-21,Veteran's Pension,Gender,Female,2733
+Mar-22,Veteran's Pension,Gender,Female,2655
+Jun-22,Veteran's Pension,Gender,Female,2571
+Sep-22,Veteran's Pension,Gender,Female,2457
+Dec-22,Veteran's Pension,Gender,Female,2403
+Mar-23,Veteran's Pension,Gender,Female,2337
+Jun-23,Veteran's Pension,Gender,Female,2268
+Sep-23,Veteran's Pension,Gender,Female,2196
+Dec-23,Veteran's Pension,Gender,Female,2151
+Mar-24,Veteran's Pension,Gender,Female,2100
+Mar-19,Veteran's Pension,Gender,Gender Diverse,0
+Jun-19,Veteran's Pension,Gender,Gender Diverse,0
+Sep-19,Veteran's Pension,Gender,Gender Diverse,0
+Dec-19,Veteran's Pension,Gender,Gender Diverse,0
+Mar-20,Veteran's Pension,Gender,Gender Diverse,0
+Jun-20,Veteran's Pension,Gender,Gender Diverse,0
+Sep-20,Veteran's Pension,Gender,Gender Diverse,0
+Dec-20,Veteran's Pension,Gender,Gender Diverse,0
+Mar-21,Veteran's Pension,Gender,Gender Diverse,0
+Jun-21,Veteran's Pension,Gender,Gender Diverse,0
+Sep-21,Veteran's Pension,Gender,Gender Diverse,0
+Dec-21,Veteran's Pension,Gender,Gender Diverse,0
+Mar-22,Veteran's Pension,Gender,Gender Diverse,0
+Jun-22,Veteran's Pension,Gender,Gender Diverse,0
+Sep-22,Veteran's Pension,Gender,Gender Diverse,0
+Dec-22,Veteran's Pension,Gender,Gender Diverse,0
+Mar-23,Veteran's Pension,Gender,Gender Diverse,0
+Jun-23,Veteran's Pension,Gender,Gender Diverse,0
+Sep-23,Veteran's Pension,Gender,Gender Diverse,0
+Dec-23,Veteran's Pension,Gender,Gender Diverse,0
+Mar-24,Veteran's Pension,Gender,Gender Diverse,0
+Mar-19,Veteran's Pension,Receipt of additional support,Accommodation Supplement,315
+Jun-19,Veteran's Pension,Receipt of additional support,Accommodation Supplement,312
+Sep-19,Veteran's Pension,Receipt of additional support,Accommodation Supplement,306
+Dec-19,Veteran's Pension,Receipt of additional support,Accommodation Supplement,300
+Mar-20,Veteran's Pension,Receipt of additional support,Accommodation Supplement,297
+Jun-20,Veteran's Pension,Receipt of additional support,Accommodation Supplement,291
+Sep-20,Veteran's Pension,Receipt of additional support,Accommodation Supplement,279
+Dec-20,Veteran's Pension,Receipt of additional support,Accommodation Supplement,270
+Mar-21,Veteran's Pension,Receipt of additional support,Accommodation Supplement,270
+Jun-21,Veteran's Pension,Receipt of additional support,Accommodation Supplement,264
+Sep-21,Veteran's Pension,Receipt of additional support,Accommodation Supplement,261
+Dec-21,Veteran's Pension,Receipt of additional support,Accommodation Supplement,255
+Mar-22,Veteran's Pension,Receipt of additional support,Accommodation Supplement,252
+Jun-22,Veteran's Pension,Receipt of additional support,Accommodation Supplement,249
+Sep-22,Veteran's Pension,Receipt of additional support,Accommodation Supplement,249
+Dec-22,Veteran's Pension,Receipt of additional support,Accommodation Supplement,237
+Mar-23,Veteran's Pension,Receipt of additional support,Accommodation Supplement,240
+Jun-23,Veteran's Pension,Receipt of additional support,Accommodation Supplement,225
+Sep-23,Veteran's Pension,Receipt of additional support,Accommodation Supplement,222
+Dec-23,Veteran's Pension,Receipt of additional support,Accommodation Supplement,216
+Mar-24,Veteran's Pension,Receipt of additional support,Accommodation Supplement,219
+Mar-19,Veteran's Pension,Receipt of additional support,Disability Allowance,1974
+Jun-19,Veteran's Pension,Receipt of additional support,Disability Allowance,1926
+Sep-19,Veteran's Pension,Receipt of additional support,Disability Allowance,1845
+Dec-19,Veteran's Pension,Receipt of additional support,Disability Allowance,1785
+Mar-20,Veteran's Pension,Receipt of additional support,Disability Allowance,1734
+Jun-20,Veteran's Pension,Receipt of additional support,Disability Allowance,1671
+Sep-20,Veteran's Pension,Receipt of additional support,Disability Allowance,1614
+Dec-20,Veteran's Pension,Receipt of additional support,Disability Allowance,1563
+Mar-21,Veteran's Pension,Receipt of additional support,Disability Allowance,1500
+Jun-21,Veteran's Pension,Receipt of additional support,Disability Allowance,1449
+Sep-21,Veteran's Pension,Receipt of additional support,Disability Allowance,1401
+Dec-21,Veteran's Pension,Receipt of additional support,Disability Allowance,1368
+Mar-22,Veteran's Pension,Receipt of additional support,Disability Allowance,1320
+Jun-22,Veteran's Pension,Receipt of additional support,Disability Allowance,1290
+Sep-22,Veteran's Pension,Receipt of additional support,Disability Allowance,1233
+Dec-22,Veteran's Pension,Receipt of additional support,Disability Allowance,1191
+Mar-23,Veteran's Pension,Receipt of additional support,Disability Allowance,1143
+Jun-23,Veteran's Pension,Receipt of additional support,Disability Allowance,1101
+Sep-23,Veteran's Pension,Receipt of additional support,Disability Allowance,1050
+Dec-23,Veteran's Pension,Receipt of additional support,Disability Allowance,1014
+Mar-24,Veteran's Pension,Receipt of additional support,Disability Allowance,987
+Mar-19,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,3
+Jun-19,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,3
+Sep-19,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+Dec-19,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,3
+Mar-20,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+Jun-20,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+Sep-20,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+Dec-20,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+Mar-21,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+Jun-21,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+Sep-21,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+Dec-21,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+Mar-22,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+Jun-22,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+Sep-22,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+Dec-22,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+Mar-23,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+Jun-23,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+Sep-23,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+Dec-23,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+Mar-24,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+Mar-19,Veteran's Pension,Age Group,Under 60 years,39
+Jun-19,Veteran's Pension,Age Group,Under 60 years,42
+Sep-19,Veteran's Pension,Age Group,Under 60 years,36
+Dec-19,Veteran's Pension,Age Group,Under 60 years,33
+Mar-20,Veteran's Pension,Age Group,Under 60 years,33
+Jun-20,Veteran's Pension,Age Group,Under 60 years,33
+Sep-20,Veteran's Pension,Age Group,Under 60 years,33
+Dec-20,Veteran's Pension,Age Group,Under 60 years,33
+Mar-21,Veteran's Pension,Age Group,Under 60 years,30
+Jun-21,Veteran's Pension,Age Group,Under 60 years,30
+Sep-21,Veteran's Pension,Age Group,Under 60 years,27
+Dec-21,Veteran's Pension,Age Group,Under 60 years,27
+Mar-22,Veteran's Pension,Age Group,Under 60 years,24
+Jun-22,Veteran's Pension,Age Group,Under 60 years,24
+Sep-22,Veteran's Pension,Age Group,Under 60 years,21
+Dec-22,Veteran's Pension,Age Group,Under 60 years,18
+Mar-23,Veteran's Pension,Age Group,Under 60 years,12
+Jun-23,Veteran's Pension,Age Group,Under 60 years,15
+Sep-23,Veteran's Pension,Age Group,Under 60 years,15
+Dec-23,Veteran's Pension,Age Group,Under 60 years,12
+Mar-24,Veteran's Pension,Age Group,Under 60 years,9
+Mar-19,Veteran's Pension,Age Group,60-64 years,57
+Jun-19,Veteran's Pension,Age Group,60-64 years,60
+Sep-19,Veteran's Pension,Age Group,60-64 years,60
+Dec-19,Veteran's Pension,Age Group,60-64 years,57
+Mar-20,Veteran's Pension,Age Group,60-64 years,57
+Jun-20,Veteran's Pension,Age Group,60-64 years,57
+Sep-20,Veteran's Pension,Age Group,60-64 years,54
+Dec-20,Veteran's Pension,Age Group,60-64 years,57
+Mar-21,Veteran's Pension,Age Group,60-64 years,54
+Jun-21,Veteran's Pension,Age Group,60-64 years,51
+Sep-21,Veteran's Pension,Age Group,60-64 years,45
+Dec-21,Veteran's Pension,Age Group,60-64 years,36
+Mar-22,Veteran's Pension,Age Group,60-64 years,33
+Jun-22,Veteran's Pension,Age Group,60-64 years,36
+Sep-22,Veteran's Pension,Age Group,60-64 years,33
+Dec-22,Veteran's Pension,Age Group,60-64 years,30
+Mar-23,Veteran's Pension,Age Group,60-64 years,24
+Jun-23,Veteran's Pension,Age Group,60-64 years,21
+Sep-23,Veteran's Pension,Age Group,60-64 years,24
+Dec-23,Veteran's Pension,Age Group,60-64 years,27
+Mar-24,Veteran's Pension,Age Group,60-64 years,27
+Mar-19,Veteran's Pension,Age Group,65-69 years,501
+Jun-19,Veteran's Pension,Age Group,65-69 years,474
+Sep-19,Veteran's Pension,Age Group,65-69 years,441
+Dec-19,Veteran's Pension,Age Group,65-69 years,411
+Mar-20,Veteran's Pension,Age Group,65-69 years,387
+Jun-20,Veteran's Pension,Age Group,65-69 years,372
+Sep-20,Veteran's Pension,Age Group,65-69 years,390
+Dec-20,Veteran's Pension,Age Group,65-69 years,390
+Mar-21,Veteran's Pension,Age Group,65-69 years,393
+Jun-21,Veteran's Pension,Age Group,65-69 years,393
+Sep-21,Veteran's Pension,Age Group,65-69 years,384
+Dec-21,Veteran's Pension,Age Group,65-69 years,396
+Mar-22,Veteran's Pension,Age Group,65-69 years,390
+Jun-22,Veteran's Pension,Age Group,65-69 years,402
+Sep-22,Veteran's Pension,Age Group,65-69 years,405
+Dec-22,Veteran's Pension,Age Group,65-69 years,411
+Mar-23,Veteran's Pension,Age Group,65-69 years,423
+Jun-23,Veteran's Pension,Age Group,65-69 years,420
+Sep-23,Veteran's Pension,Age Group,65-69 years,426
+Dec-23,Veteran's Pension,Age Group,65-69 years,438
+Mar-24,Veteran's Pension,Age Group,65-69 years,459
+Mar-19,Veteran's Pension,Age Group,70-74 years,1230
+Jun-19,Veteran's Pension,Age Group,70-74 years,1227
+Sep-19,Veteran's Pension,Age Group,70-74 years,1221
+Dec-19,Veteran's Pension,Age Group,70-74 years,1221
+Mar-20,Veteran's Pension,Age Group,70-74 years,1203
+Jun-20,Veteran's Pension,Age Group,70-74 years,1182
+Sep-20,Veteran's Pension,Age Group,70-74 years,1173
+Dec-20,Veteran's Pension,Age Group,70-74 years,1149
+Mar-21,Veteran's Pension,Age Group,70-74 years,1110
+Jun-21,Veteran's Pension,Age Group,70-74 years,1065
+Sep-21,Veteran's Pension,Age Group,70-74 years,1020
+Dec-21,Veteran's Pension,Age Group,70-74 years,951
+Mar-22,Veteran's Pension,Age Group,70-74 years,915
+Jun-22,Veteran's Pension,Age Group,70-74 years,876
+Sep-22,Veteran's Pension,Age Group,70-74 years,831
+Dec-22,Veteran's Pension,Age Group,70-74 years,813
+Mar-23,Veteran's Pension,Age Group,70-74 years,744
+Jun-23,Veteran's Pension,Age Group,70-74 years,690
+Sep-23,Veteran's Pension,Age Group,70-74 years,684
+Dec-23,Veteran's Pension,Age Group,70-74 years,654
+Mar-24,Veteran's Pension,Age Group,70-74 years,645
+Mar-19,Veteran's Pension,Age Group,75-79 years,1227
+Jun-19,Veteran's Pension,Age Group,75-79 years,1209
+Sep-19,Veteran's Pension,Age Group,75-79 years,1194
+Dec-19,Veteran's Pension,Age Group,75-79 years,1194
+Mar-20,Veteran's Pension,Age Group,75-79 years,1194
+Jun-20,Veteran's Pension,Age Group,75-79 years,1176
+Sep-20,Veteran's Pension,Age Group,75-79 years,1179
+Dec-20,Veteran's Pension,Age Group,75-79 years,1167
+Mar-21,Veteran's Pension,Age Group,75-79 years,1167
+Jun-21,Veteran's Pension,Age Group,75-79 years,1176
+Sep-21,Veteran's Pension,Age Group,75-79 years,1179
+Dec-21,Veteran's Pension,Age Group,75-79 years,1191
+Mar-22,Veteran's Pension,Age Group,75-79 years,1185
+Jun-22,Veteran's Pension,Age Group,75-79 years,1203
+Sep-22,Veteran's Pension,Age Group,75-79 years,1227
+Dec-22,Veteran's Pension,Age Group,75-79 years,1242
+Mar-23,Veteran's Pension,Age Group,75-79 years,1266
+Jun-23,Veteran's Pension,Age Group,75-79 years,1278
+Sep-23,Veteran's Pension,Age Group,75-79 years,1257
+Dec-23,Veteran's Pension,Age Group,75-79 years,1248
+Mar-24,Veteran's Pension,Age Group,75-79 years,1215
+Mar-19,Veteran's Pension,Age Group,80-84 years,1059
+Jun-19,Veteran's Pension,Age Group,80-84 years,1059
+Sep-19,Veteran's Pension,Age Group,80-84 years,1053
+Dec-19,Veteran's Pension,Age Group,80-84 years,1059
+Mar-20,Veteran's Pension,Age Group,80-84 years,1056
+Jun-20,Veteran's Pension,Age Group,80-84 years,1035
+Sep-20,Veteran's Pension,Age Group,80-84 years,1047
+Dec-20,Veteran's Pension,Age Group,80-84 years,1053
+Mar-21,Veteran's Pension,Age Group,80-84 years,1053
+Jun-21,Veteran's Pension,Age Group,80-84 years,1050
+Sep-21,Veteran's Pension,Age Group,80-84 years,1041
+Dec-21,Veteran's Pension,Age Group,80-84 years,1062
+Mar-22,Veteran's Pension,Age Group,80-84 years,1068
+Jun-22,Veteran's Pension,Age Group,80-84 years,1056
+Sep-22,Veteran's Pension,Age Group,80-84 years,1035
+Dec-22,Veteran's Pension,Age Group,80-84 years,1017
+Mar-23,Veteran's Pension,Age Group,80-84 years,1008
+Jun-23,Veteran's Pension,Age Group,80-84 years,1002
+Sep-23,Veteran's Pension,Age Group,80-84 years,1017
+Dec-23,Veteran's Pension,Age Group,80-84 years,1023
+Mar-24,Veteran's Pension,Age Group,80-84 years,1014
+Mar-19,Veteran's Pension,Age Group,85-89 years,1053
+Jun-19,Veteran's Pension,Age Group,85-89 years,1020
+Sep-19,Veteran's Pension,Age Group,85-89 years,993
+Dec-19,Veteran's Pension,Age Group,85-89 years,954
+Mar-20,Veteran's Pension,Age Group,85-89 years,924
+Jun-20,Veteran's Pension,Age Group,85-89 years,915
+Sep-20,Veteran's Pension,Age Group,85-89 years,894
+Dec-20,Veteran's Pension,Age Group,85-89 years,876
+Mar-21,Veteran's Pension,Age Group,85-89 years,852
+Jun-21,Veteran's Pension,Age Group,85-89 years,837
+Sep-21,Veteran's Pension,Age Group,85-89 years,813
+Dec-21,Veteran's Pension,Age Group,85-89 years,792
+Mar-22,Veteran's Pension,Age Group,85-89 years,789
+Jun-22,Veteran's Pension,Age Group,85-89 years,792
+Sep-22,Veteran's Pension,Age Group,85-89 years,774
+Dec-22,Veteran's Pension,Age Group,85-89 years,765
+Mar-23,Veteran's Pension,Age Group,85-89 years,753
+Jun-23,Veteran's Pension,Age Group,85-89 years,738
+Sep-23,Veteran's Pension,Age Group,85-89 years,729
+Dec-23,Veteran's Pension,Age Group,85-89 years,720
+Mar-24,Veteran's Pension,Age Group,85-89 years,711
+Mar-19,Veteran's Pension,Age Group,90 years and over,1938
+Jun-19,Veteran's Pension,Age Group,90 years and over,1878
+Sep-19,Veteran's Pension,Age Group,90 years and over,1782
+Dec-19,Veteran's Pension,Age Group,90 years and over,1722
+Mar-20,Veteran's Pension,Age Group,90 years and over,1686
+Jun-20,Veteran's Pension,Age Group,90 years and over,1617
+Sep-20,Veteran's Pension,Age Group,90 years and over,1560
+Dec-20,Veteran's Pension,Age Group,90 years and over,1536
+Mar-21,Veteran's Pension,Age Group,90 years and over,1500
+Jun-21,Veteran's Pension,Age Group,90 years and over,1431
+Sep-21,Veteran's Pension,Age Group,90 years and over,1380
+Dec-21,Veteran's Pension,Age Group,90 years and over,1329
+Mar-22,Veteran's Pension,Age Group,90 years and over,1260
+Jun-22,Veteran's Pension,Age Group,90 years and over,1191
+Sep-22,Veteran's Pension,Age Group,90 years and over,1095
+Dec-22,Veteran's Pension,Age Group,90 years and over,1065
+Mar-23,Veteran's Pension,Age Group,90 years and over,1020
+Jun-23,Veteran's Pension,Age Group,90 years and over,972
+Sep-23,Veteran's Pension,Age Group,90 years and over,921
+Dec-23,Veteran's Pension,Age Group,90 years and over,894
+Mar-24,Veteran's Pension,Age Group,90 years and over,864
+Mar-19,Veteran's Pension,Ethinicity,European,4326
+Jun-19,Veteran's Pension,Ethinicity,European,4269
+Sep-19,Veteran's Pension,Ethinicity,European,4197
+Dec-19,Veteran's Pension,Ethinicity,European,4143
+Mar-20,Veteran's Pension,Ethinicity,European,4080
+Jun-20,Veteran's Pension,Ethinicity,European,4008
+Sep-20,Veteran's Pension,Ethinicity,European,4011
+Dec-20,Veteran's Pension,Ethinicity,European,3993
+Mar-21,Veteran's Pension,Ethinicity,European,3960
+Jun-21,Veteran's Pension,Ethinicity,European,3915
+Sep-21,Veteran's Pension,Ethinicity,European,3834
+Dec-21,Veteran's Pension,Ethinicity,European,3792
+Mar-22,Veteran's Pension,Ethinicity,European,3732
+Jun-22,Veteran's Pension,Ethinicity,European,3693
+Sep-22,Veteran's Pension,Ethinicity,European,3612
+Dec-22,Veteran's Pension,Ethinicity,European,3588
+Mar-23,Veteran's Pension,Ethinicity,European,3528
+Jun-23,Veteran's Pension,Ethinicity,European,3474
+Sep-23,Veteran's Pension,Ethinicity,European,3462
+Dec-23,Veteran's Pension,Ethinicity,European,3432
+Mar-24,Veteran's Pension,Ethinicity,European,3426
+Mar-19,Veteran's Pension,Ethinicity,Māori,741
+Jun-19,Veteran's Pension,Ethinicity,Māori,729
+Sep-19,Veteran's Pension,Ethinicity,Māori,720
+Dec-19,Veteran's Pension,Ethinicity,Māori,714
+Mar-20,Veteran's Pension,Ethinicity,Māori,711
+Jun-20,Veteran's Pension,Ethinicity,Māori,702
+Sep-20,Veteran's Pension,Ethinicity,Māori,714
+Dec-20,Veteran's Pension,Ethinicity,Māori,711
+Mar-21,Veteran's Pension,Ethinicity,Māori,702
+Jun-21,Veteran's Pension,Ethinicity,Māori,690
+Sep-21,Veteran's Pension,Ethinicity,Māori,684
+Dec-21,Veteran's Pension,Ethinicity,Māori,681
+Mar-22,Veteran's Pension,Ethinicity,Māori,672
+Jun-22,Veteran's Pension,Ethinicity,Māori,675
+Sep-22,Veteran's Pension,Ethinicity,Māori,672
+Dec-22,Veteran's Pension,Ethinicity,Māori,669
+Mar-23,Veteran's Pension,Ethinicity,Māori,669
+Jun-23,Veteran's Pension,Ethinicity,Māori,657
+Sep-23,Veteran's Pension,Ethinicity,Māori,660
+Dec-23,Veteran's Pension,Ethinicity,Māori,654
+Mar-24,Veteran's Pension,Ethinicity,Māori,654
+Mar-19,Veteran's Pension,Ethinicity,Pacific Peoples,48
+Jun-19,Veteran's Pension,Ethinicity,Pacific Peoples,48
+Sep-19,Veteran's Pension,Ethinicity,Pacific Peoples,48
+Dec-19,Veteran's Pension,Ethinicity,Pacific Peoples,48
+Mar-20,Veteran's Pension,Ethinicity,Pacific Peoples,48
+Jun-20,Veteran's Pension,Ethinicity,Pacific Peoples,45
+Sep-20,Veteran's Pension,Ethinicity,Pacific Peoples,45
+Dec-20,Veteran's Pension,Ethinicity,Pacific Peoples,48
+Mar-21,Veteran's Pension,Ethinicity,Pacific Peoples,48
+Jun-21,Veteran's Pension,Ethinicity,Pacific Peoples,45
+Sep-21,Veteran's Pension,Ethinicity,Pacific Peoples,45
+Dec-21,Veteran's Pension,Ethinicity,Pacific Peoples,45
+Mar-22,Veteran's Pension,Ethinicity,Pacific Peoples,48
+Jun-22,Veteran's Pension,Ethinicity,Pacific Peoples,45
+Sep-22,Veteran's Pension,Ethinicity,Pacific Peoples,42
+Dec-22,Veteran's Pension,Ethinicity,Pacific Peoples,45
+Mar-23,Veteran's Pension,Ethinicity,Pacific Peoples,42
+Jun-23,Veteran's Pension,Ethinicity,Pacific Peoples,42
+Sep-23,Veteran's Pension,Ethinicity,Pacific Peoples,42
+Dec-23,Veteran's Pension,Ethinicity,Pacific Peoples,45
+Mar-24,Veteran's Pension,Ethinicity,Pacific Peoples,45
+Mar-19,Veteran's Pension,Ethinicity,Asian,39
+Jun-19,Veteran's Pension,Ethinicity,Asian,36
+Sep-19,Veteran's Pension,Ethinicity,Asian,33
+Dec-19,Veteran's Pension,Ethinicity,Asian,39
+Mar-20,Veteran's Pension,Ethinicity,Asian,39
+Jun-20,Veteran's Pension,Ethinicity,Asian,39
+Sep-20,Veteran's Pension,Ethinicity,Asian,39
+Dec-20,Veteran's Pension,Ethinicity,Asian,39
+Mar-21,Veteran's Pension,Ethinicity,Asian,42
+Jun-21,Veteran's Pension,Ethinicity,Asian,39
+Sep-21,Veteran's Pension,Ethinicity,Asian,39
+Dec-21,Veteran's Pension,Ethinicity,Asian,39
+Mar-22,Veteran's Pension,Ethinicity,Asian,39
+Jun-22,Veteran's Pension,Ethinicity,Asian,42
+Sep-22,Veteran's Pension,Ethinicity,Asian,39
+Dec-22,Veteran's Pension,Ethinicity,Asian,39
+Mar-23,Veteran's Pension,Ethinicity,Asian,36
+Jun-23,Veteran's Pension,Ethinicity,Asian,36
+Sep-23,Veteran's Pension,Ethinicity,Asian,39
+Dec-23,Veteran's Pension,Ethinicity,Asian,36
+Mar-24,Veteran's Pension,Ethinicity,Asian,36
+Mar-19,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Jun-19,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Sep-19,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Dec-19,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Mar-20,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Jun-20,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Sep-20,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Dec-20,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Mar-21,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Jun-21,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Sep-21,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Dec-21,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Mar-22,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Jun-22,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Sep-22,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Dec-22,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Mar-23,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Jun-23,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Sep-23,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Dec-23,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Mar-24,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+Mar-19,Veteran's Pension,Ethinicity,Other ethnicity,51
+Jun-19,Veteran's Pension,Ethinicity,Other ethnicity,51
+Sep-19,Veteran's Pension,Ethinicity,Other ethnicity,48
+Dec-19,Veteran's Pension,Ethinicity,Other ethnicity,51
+Mar-20,Veteran's Pension,Ethinicity,Other ethnicity,51
+Jun-20,Veteran's Pension,Ethinicity,Other ethnicity,48
+Sep-20,Veteran's Pension,Ethinicity,Other ethnicity,48
+Dec-20,Veteran's Pension,Ethinicity,Other ethnicity,48
+Mar-21,Veteran's Pension,Ethinicity,Other ethnicity,48
+Jun-21,Veteran's Pension,Ethinicity,Other ethnicity,45
+Sep-21,Veteran's Pension,Ethinicity,Other ethnicity,42
+Dec-21,Veteran's Pension,Ethinicity,Other ethnicity,45
+Mar-22,Veteran's Pension,Ethinicity,Other ethnicity,42
+Jun-22,Veteran's Pension,Ethinicity,Other ethnicity,45
+Sep-22,Veteran's Pension,Ethinicity,Other ethnicity,45
+Dec-22,Veteran's Pension,Ethinicity,Other ethnicity,45
+Mar-23,Veteran's Pension,Ethinicity,Other ethnicity,45
+Jun-23,Veteran's Pension,Ethinicity,Other ethnicity,45
+Sep-23,Veteran's Pension,Ethinicity,Other ethnicity,45
+Dec-23,Veteran's Pension,Ethinicity,Other ethnicity,45
+Mar-24,Veteran's Pension,Ethinicity,Other ethnicity,48
+Mar-19,Veteran's Pension,Ethinicity,Ethnicity not specified,2022
+Jun-19,Veteran's Pension,Ethinicity,Ethnicity not specified,1950
+Sep-19,Veteran's Pension,Ethinicity,Ethnicity not specified,1851
+Dec-19,Veteran's Pension,Ethinicity,Ethnicity not specified,1779
+Mar-20,Veteran's Pension,Ethinicity,Ethnicity not specified,1731
+Jun-20,Veteran's Pension,Ethinicity,Ethnicity not specified,1665
+Sep-20,Veteran's Pension,Ethinicity,Ethnicity not specified,1596
+Dec-20,Veteran's Pension,Ethinicity,Ethnicity not specified,1548
+Mar-21,Veteran's Pension,Ethinicity,Ethnicity not specified,1488
+Jun-21,Veteran's Pension,Ethinicity,Ethnicity not specified,1413
+Sep-21,Veteran's Pension,Ethinicity,Ethnicity not specified,1359
+Dec-21,Veteran's Pension,Ethinicity,Ethnicity not specified,1302
+Mar-22,Veteran's Pension,Ethinicity,Ethnicity not specified,1251
+Jun-22,Veteran's Pension,Ethinicity,Ethnicity not specified,1200
+Sep-22,Veteran's Pension,Ethinicity,Ethnicity not specified,1140
+Dec-22,Veteran's Pension,Ethinicity,Ethnicity not specified,1104
+Mar-23,Veteran's Pension,Ethinicity,Ethnicity not specified,1062
+Jun-23,Veteran's Pension,Ethinicity,Ethnicity not specified,1008
+Sep-23,Veteran's Pension,Ethinicity,Ethnicity not specified,960
+Dec-23,Veteran's Pension,Ethinicity,Ethnicity not specified,921
+Mar-24,Veteran's Pension,Ethinicity,Ethnicity not specified,873

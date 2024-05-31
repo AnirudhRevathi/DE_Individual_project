@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-
+import datetime
 
 current_directory = os.path.dirname(os.path.realpath(__file__))
  
@@ -89,8 +89,14 @@ df_final = df_final.reindex(columns=new_column_order)
 
 df_final = df_final.fillna("0")
 
-df_final.to_csv(r'D:\\OneDrive - University of Canterbury\\1-2024\Data Engineering\DE individual assignmnet\\de_clean_data.csv', index=False)
+df_final['Date'] = pd.to_datetime(df_final['Date'], format='%b-%y')
+
+ # Format the 'date' column as yyyymmdd
+df_final['Date'] = df_final['Date'].dt.strftime('%Y-%m-%d')
 
 
+df_final.to_csv(r'final.csv', index=False)
 
+def getdf():
+	return df_final
 
