@@ -1,0 +1,883 @@
+Date,Recipient Characteristic,Type,Subtype,Observation
+2019-03-01,New Zealand Superannuation,Gender,Male,359397
+2019-06-01,New Zealand Superannuation,Gender,Male,362742
+2019-09-01,New Zealand Superannuation,Gender,Male,365721
+2019-12-01,New Zealand Superannuation,Gender,Male,369090
+2020-03-01,New Zealand Superannuation,Gender,Male,372351
+2020-06-01,New Zealand Superannuation,Gender,Male,375732
+2020-09-01,New Zealand Superannuation,Gender,Male,380196
+2020-12-01,New Zealand Superannuation,Gender,Male,383547
+2021-03-01,New Zealand Superannuation,Gender,Male,386955
+2021-06-01,New Zealand Superannuation,Gender,Male,389820
+2021-09-01,New Zealand Superannuation,Gender,Male,393276
+2021-12-01,New Zealand Superannuation,Gender,Male,395154
+2022-03-01,New Zealand Superannuation,Gender,Male,398148
+2022-06-01,New Zealand Superannuation,Gender,Male,400524
+2022-09-01,New Zealand Superannuation,Gender,Male,404220
+2022-12-01,New Zealand Superannuation,Gender,Male,405894
+2023-03-01,New Zealand Superannuation,Gender,Male,409410
+2023-06-01,New Zealand Superannuation,Gender,Male,413013
+2023-09-01,New Zealand Superannuation,Gender,Male,417021
+2023-12-01,New Zealand Superannuation,Gender,Male,420324
+2024-03-01,New Zealand Superannuation,Gender,Male,424470
+2019-03-01,New Zealand Superannuation,Gender,Female,415254
+2019-06-01,New Zealand Superannuation,Gender,Female,418695
+2019-09-01,New Zealand Superannuation,Gender,Female,421914
+2019-12-01,New Zealand Superannuation,Gender,Female,425739
+2020-03-01,New Zealand Superannuation,Gender,Female,429162
+2020-06-01,New Zealand Superannuation,Gender,Female,433266
+2020-09-01,New Zealand Superannuation,Gender,Female,438561
+2020-12-01,New Zealand Superannuation,Gender,Female,442038
+2021-03-01,New Zealand Superannuation,Gender,Female,444987
+2021-06-01,New Zealand Superannuation,Gender,Female,447717
+2021-09-01,New Zealand Superannuation,Gender,Female,450732
+2021-12-01,New Zealand Superannuation,Gender,Female,452622
+2022-03-01,New Zealand Superannuation,Gender,Female,455553
+2022-06-01,New Zealand Superannuation,Gender,Female,457839
+2022-09-01,New Zealand Superannuation,Gender,Female,461328
+2022-12-01,New Zealand Superannuation,Gender,Female,463242
+2023-03-01,New Zealand Superannuation,Gender,Female,466725
+2023-06-01,New Zealand Superannuation,Gender,Female,470184
+2023-09-01,New Zealand Superannuation,Gender,Female,474354
+2023-12-01,New Zealand Superannuation,Gender,Female,477930
+2024-03-01,New Zealand Superannuation,Gender,Female,482328
+2019-03-01,New Zealand Superannuation,Gender,Gender Diverse,0
+2019-06-01,New Zealand Superannuation,Gender,Gender Diverse,0
+2019-09-01,New Zealand Superannuation,Gender,Gender Diverse,0
+2019-12-01,New Zealand Superannuation,Gender,Gender Diverse,3
+2020-03-01,New Zealand Superannuation,Gender,Gender Diverse,3
+2020-06-01,New Zealand Superannuation,Gender,Gender Diverse,3
+2020-09-01,New Zealand Superannuation,Gender,Gender Diverse,6
+2020-12-01,New Zealand Superannuation,Gender,Gender Diverse,9
+2021-03-01,New Zealand Superannuation,Gender,Gender Diverse,9
+2021-06-01,New Zealand Superannuation,Gender,Gender Diverse,12
+2021-09-01,New Zealand Superannuation,Gender,Gender Diverse,15
+2021-12-01,New Zealand Superannuation,Gender,Gender Diverse,15
+2022-03-01,New Zealand Superannuation,Gender,Gender Diverse,24
+2022-06-01,New Zealand Superannuation,Gender,Gender Diverse,27
+2022-09-01,New Zealand Superannuation,Gender,Gender Diverse,33
+2022-12-01,New Zealand Superannuation,Gender,Gender Diverse,33
+2023-03-01,New Zealand Superannuation,Gender,Gender Diverse,39
+2023-06-01,New Zealand Superannuation,Gender,Gender Diverse,42
+2023-09-01,New Zealand Superannuation,Gender,Gender Diverse,48
+2023-12-01,New Zealand Superannuation,Gender,Gender Diverse,51
+2024-03-01,New Zealand Superannuation,Gender,Gender Diverse,51
+2019-03-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,41631
+2019-06-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,42123
+2019-09-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,42699
+2019-12-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,43479
+2020-03-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,44025
+2020-06-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,44757
+2020-09-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,45753
+2020-12-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,46458
+2021-03-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47148
+2021-06-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,46740
+2021-09-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47376
+2021-12-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47535
+2022-03-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47685
+2022-06-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,46998
+2022-09-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47313
+2022-12-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47223
+2023-03-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47985
+2023-06-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,46881
+2023-09-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47382
+2023-12-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,47823
+2024-03-01,New Zealand Superannuation,Receipt of additional support,Accommodation Supplement,48570
+2019-03-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127746
+2019-06-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127638
+2019-09-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127383
+2019-12-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,128046
+2020-03-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,128079
+2020-06-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127899
+2020-09-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,128673
+2020-12-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,129576
+2021-03-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,130323
+2021-06-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,129402
+2021-09-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,129726
+2021-12-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,128940
+2022-03-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,127902
+2022-06-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,126192
+2022-09-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,126534
+2022-12-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125688
+2023-03-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125907
+2023-06-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,126249
+2023-09-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125949
+2023-12-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125343
+2024-03-01,New Zealand Superannuation,Receipt of additional support,Disability Allowance,125190
+2019-03-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,6579
+2019-06-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,6933
+2019-09-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,7356
+2019-12-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,8052
+2020-03-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,7983
+2020-06-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,8850
+2020-09-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9414
+2020-12-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9216
+2021-03-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9546
+2021-06-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9039
+2021-09-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9960
+2021-12-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,9951
+2022-03-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,10440
+2022-06-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,10257
+2022-09-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,10794
+2022-12-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,10917
+2023-03-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,11688
+2023-06-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,11169
+2023-09-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,11706
+2023-12-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,11877
+2024-03-01,New Zealand Superannuation,Receipt of additional support,Temporary Additional Support/Special Benefit,12597
+2019-03-01,New Zealand Superannuation,Age Group,Under 60 years,3783
+2019-06-01,New Zealand Superannuation,Age Group,Under 60 years,3819
+2019-09-01,New Zealand Superannuation,Age Group,Under 60 years,3834
+2019-12-01,New Zealand Superannuation,Age Group,Under 60 years,3858
+2020-03-01,New Zealand Superannuation,Age Group,Under 60 years,3867
+2020-06-01,New Zealand Superannuation,Age Group,Under 60 years,4005
+2020-09-01,New Zealand Superannuation,Age Group,Under 60 years,4101
+2020-12-01,New Zealand Superannuation,Age Group,Under 60 years,4041
+2021-03-01,New Zealand Superannuation,Age Group,Under 60 years,3744
+2021-06-01,New Zealand Superannuation,Age Group,Under 60 years,3456
+2021-09-01,New Zealand Superannuation,Age Group,Under 60 years,3186
+2021-12-01,New Zealand Superannuation,Age Group,Under 60 years,2889
+2022-03-01,New Zealand Superannuation,Age Group,Under 60 years,2694
+2022-06-01,New Zealand Superannuation,Age Group,Under 60 years,2469
+2022-09-01,New Zealand Superannuation,Age Group,Under 60 years,2268
+2022-12-01,New Zealand Superannuation,Age Group,Under 60 years,2082
+2023-03-01,New Zealand Superannuation,Age Group,Under 60 years,1929
+2023-06-01,New Zealand Superannuation,Age Group,Under 60 years,1767
+2023-09-01,New Zealand Superannuation,Age Group,Under 60 years,1644
+2023-12-01,New Zealand Superannuation,Age Group,Under 60 years,1509
+2024-03-01,New Zealand Superannuation,Age Group,Under 60 years,1425
+2019-03-01,New Zealand Superannuation,Age Group,60-64 years,11064
+2019-06-01,New Zealand Superannuation,Age Group,60-64 years,11376
+2019-09-01,New Zealand Superannuation,Age Group,60-64 years,11634
+2019-12-01,New Zealand Superannuation,Age Group,60-64 years,11205
+2020-03-01,New Zealand Superannuation,Age Group,60-64 years,11058
+2020-06-01,New Zealand Superannuation,Age Group,60-64 years,11709
+2020-09-01,New Zealand Superannuation,Age Group,60-64 years,12444
+2020-12-01,New Zealand Superannuation,Age Group,60-64 years,12021
+2021-03-01,New Zealand Superannuation,Age Group,60-64 years,11379
+2021-06-01,New Zealand Superannuation,Age Group,60-64 years,11082
+2021-09-01,New Zealand Superannuation,Age Group,60-64 years,11229
+2021-12-01,New Zealand Superannuation,Age Group,60-64 years,9615
+2022-03-01,New Zealand Superannuation,Age Group,60-64 years,9006
+2022-06-01,New Zealand Superannuation,Age Group,60-64 years,8169
+2022-09-01,New Zealand Superannuation,Age Group,60-64 years,9366
+2022-12-01,New Zealand Superannuation,Age Group,60-64 years,6933
+2023-03-01,New Zealand Superannuation,Age Group,60-64 years,6642
+2023-06-01,New Zealand Superannuation,Age Group,60-64 years,7602
+2023-09-01,New Zealand Superannuation,Age Group,60-64 years,8301
+2023-12-01,New Zealand Superannuation,Age Group,60-64 years,7722
+2024-03-01,New Zealand Superannuation,Age Group,60-64 years,8301
+2019-03-01,New Zealand Superannuation,Age Group,65-69 years,235401
+2019-06-01,New Zealand Superannuation,Age Group,65-69 years,236508
+2019-09-01,New Zealand Superannuation,Age Group,65-69 years,237249
+2019-12-01,New Zealand Superannuation,Age Group,65-69 years,237903
+2020-03-01,New Zealand Superannuation,Age Group,65-69 years,238710
+2020-06-01,New Zealand Superannuation,Age Group,65-69 years,239463
+2020-09-01,New Zealand Superannuation,Age Group,65-69 years,241470
+2020-12-01,New Zealand Superannuation,Age Group,65-69 years,242238
+2021-03-01,New Zealand Superannuation,Age Group,65-69 years,243768
+2021-06-01,New Zealand Superannuation,Age Group,65-69 years,245109
+2021-09-01,New Zealand Superannuation,Age Group,65-69 years,246348
+2021-12-01,New Zealand Superannuation,Age Group,65-69 years,246438
+2022-03-01,New Zealand Superannuation,Age Group,65-69 years,247305
+2022-06-01,New Zealand Superannuation,Age Group,65-69 years,248649
+2022-09-01,New Zealand Superannuation,Age Group,65-69 years,250374
+2022-12-01,New Zealand Superannuation,Age Group,65-69 years,251178
+2023-03-01,New Zealand Superannuation,Age Group,65-69 years,252912
+2023-06-01,New Zealand Superannuation,Age Group,65-69 years,254490
+2023-09-01,New Zealand Superannuation,Age Group,65-69 years,256608
+2023-12-01,New Zealand Superannuation,Age Group,65-69 years,258264
+2024-03-01,New Zealand Superannuation,Age Group,65-69 years,260112
+2019-03-01,New Zealand Superannuation,Age Group,70-74 years,207270
+2019-06-01,New Zealand Superannuation,Age Group,70-74 years,209508
+2019-09-01,New Zealand Superannuation,Age Group,70-74 years,211998
+2019-12-01,New Zealand Superannuation,Age Group,70-74 years,215073
+2020-03-01,New Zealand Superannuation,Age Group,70-74 years,217521
+2020-06-01,New Zealand Superannuation,Age Group,70-74 years,219390
+2020-09-01,New Zealand Superannuation,Age Group,70-74 years,221550
+2020-12-01,New Zealand Superannuation,Age Group,70-74 years,223899
+2021-03-01,New Zealand Superannuation,Age Group,70-74 years,225861
+2021-06-01,New Zealand Superannuation,Age Group,70-74 years,227181
+2021-09-01,New Zealand Superannuation,Age Group,70-74 years,227817
+2021-12-01,New Zealand Superannuation,Age Group,70-74 years,227592
+2022-03-01,New Zealand Superannuation,Age Group,70-74 years,227628
+2022-06-01,New Zealand Superannuation,Age Group,70-74 years,228042
+2022-09-01,New Zealand Superannuation,Age Group,70-74 years,228453
+2022-12-01,New Zealand Superannuation,Age Group,70-74 years,228909
+2023-03-01,New Zealand Superannuation,Age Group,70-74 years,229374
+2023-06-01,New Zealand Superannuation,Age Group,70-74 years,229587
+2023-09-01,New Zealand Superannuation,Age Group,70-74 years,230625
+2023-12-01,New Zealand Superannuation,Age Group,70-74 years,231468
+2024-03-01,New Zealand Superannuation,Age Group,70-74 years,232914
+2019-03-01,New Zealand Superannuation,Age Group,75-79 years,144906
+2019-06-01,New Zealand Superannuation,Age Group,75-79 years,146784
+2019-09-01,New Zealand Superannuation,Age Group,75-79 years,147975
+2019-12-01,New Zealand Superannuation,Age Group,75-79 years,149145
+2020-03-01,New Zealand Superannuation,Age Group,75-79 years,150591
+2020-06-01,New Zealand Superannuation,Age Group,75-79 years,152340
+2020-09-01,New Zealand Superannuation,Age Group,75-79 years,153810
+2020-12-01,New Zealand Superannuation,Age Group,75-79 years,154923
+2021-03-01,New Zealand Superannuation,Age Group,75-79 years,156258
+2021-06-01,New Zealand Superannuation,Age Group,75-79 years,157599
+2021-09-01,New Zealand Superannuation,Age Group,75-79 years,159999
+2021-12-01,New Zealand Superannuation,Age Group,75-79 years,162966
+2022-03-01,New Zealand Superannuation,Age Group,75-79 years,166140
+2022-06-01,New Zealand Superannuation,Age Group,75-79 years,168450
+2022-09-01,New Zealand Superannuation,Age Group,75-79 years,171423
+2022-12-01,New Zealand Superannuation,Age Group,75-79 years,174840
+2023-03-01,New Zealand Superannuation,Age Group,75-79 years,178602
+2023-06-01,New Zealand Superannuation,Age Group,75-79 years,181749
+2023-09-01,New Zealand Superannuation,Age Group,75-79 years,184119
+2023-12-01,New Zealand Superannuation,Age Group,75-79 years,186903
+2024-03-01,New Zealand Superannuation,Age Group,75-79 years,189303
+2019-03-01,New Zealand Superannuation,Age Group,80-84 years,89922
+2019-06-01,New Zealand Superannuation,Age Group,80-84 years,90792
+2019-09-01,New Zealand Superannuation,Age Group,80-84 years,92184
+2019-12-01,New Zealand Superannuation,Age Group,80-84 years,94131
+2020-03-01,New Zealand Superannuation,Age Group,80-84 years,95556
+2020-06-01,New Zealand Superannuation,Age Group,80-84 years,97371
+2020-09-01,New Zealand Superannuation,Age Group,80-84 years,100020
+2020-12-01,New Zealand Superannuation,Age Group,80-84 years,102204
+2021-03-01,New Zealand Superannuation,Age Group,80-84 years,103884
+2021-06-01,New Zealand Superannuation,Age Group,80-84 years,105639
+2021-09-01,New Zealand Superannuation,Age Group,80-84 years,107607
+2021-12-01,New Zealand Superannuation,Age Group,80-84 years,109605
+2022-03-01,New Zealand Superannuation,Age Group,80-84 years,111600
+2022-06-01,New Zealand Superannuation,Age Group,80-84 years,112944
+2022-09-01,New Zealand Superannuation,Age Group,80-84 years,114054
+2022-12-01,New Zealand Superannuation,Age Group,80-84 years,114633
+2023-03-01,New Zealand Superannuation,Age Group,80-84 years,115233
+2023-06-01,New Zealand Superannuation,Age Group,80-84 years,115794
+2023-09-01,New Zealand Superannuation,Age Group,80-84 years,117141
+2023-12-01,New Zealand Superannuation,Age Group,80-84 years,118404
+2024-03-01,New Zealand Superannuation,Age Group,80-84 years,119703
+2019-03-01,New Zealand Superannuation,Age Group,85-89 years,53628
+2019-06-01,New Zealand Superannuation,Age Group,85-89 years,53679
+2019-09-01,New Zealand Superannuation,Age Group,85-89 years,53730
+2019-12-01,New Zealand Superannuation,Age Group,85-89 years,54021
+2020-03-01,New Zealand Superannuation,Age Group,85-89 years,54258
+2020-06-01,New Zealand Superannuation,Age Group,85-89 years,54366
+2020-09-01,New Zealand Superannuation,Age Group,85-89 years,54483
+2020-12-01,New Zealand Superannuation,Age Group,85-89 years,54867
+2021-03-01,New Zealand Superannuation,Age Group,85-89 years,55254
+2021-06-01,New Zealand Superannuation,Age Group,85-89 years,55422
+2021-09-01,New Zealand Superannuation,Age Group,85-89 years,55824
+2021-12-01,New Zealand Superannuation,Age Group,85-89 years,56265
+2022-03-01,New Zealand Superannuation,Age Group,85-89 years,56766
+2022-06-01,New Zealand Superannuation,Age Group,85-89 years,57174
+2022-09-01,New Zealand Superannuation,Age Group,85-89 years,57468
+2022-12-01,New Zealand Superannuation,Age Group,85-89 years,58278
+2023-03-01,New Zealand Superannuation,Age Group,85-89 years,58950
+2023-06-01,New Zealand Superannuation,Age Group,85-89 years,59595
+2023-09-01,New Zealand Superannuation,Age Group,85-89 years,60378
+2023-12-01,New Zealand Superannuation,Age Group,85-89 years,61284
+2024-03-01,New Zealand Superannuation,Age Group,85-89 years,62106
+2019-03-01,New Zealand Superannuation,Age Group,90 years and over,28677
+2019-06-01,New Zealand Superannuation,Age Group,90 years and over,28965
+2019-09-01,New Zealand Superannuation,Age Group,90 years and over,29034
+2019-12-01,New Zealand Superannuation,Age Group,90 years and over,29493
+2020-03-01,New Zealand Superannuation,Age Group,90 years and over,29955
+2020-06-01,New Zealand Superannuation,Age Group,90 years and over,30354
+2020-09-01,New Zealand Superannuation,Age Group,90 years and over,30888
+2020-12-01,New Zealand Superannuation,Age Group,90 years and over,31392
+2021-03-01,New Zealand Superannuation,Age Group,90 years and over,31806
+2021-06-01,New Zealand Superannuation,Age Group,90 years and over,32064
+2021-09-01,New Zealand Superannuation,Age Group,90 years and over,32010
+2021-12-01,New Zealand Superannuation,Age Group,90 years and over,32427
+2022-03-01,New Zealand Superannuation,Age Group,90 years and over,32589
+2022-06-01,New Zealand Superannuation,Age Group,90 years and over,32490
+2022-09-01,New Zealand Superannuation,Age Group,90 years and over,32169
+2022-12-01,New Zealand Superannuation,Age Group,90 years and over,32322
+2023-03-01,New Zealand Superannuation,Age Group,90 years and over,32529
+2023-06-01,New Zealand Superannuation,Age Group,90 years and over,32655
+2023-09-01,New Zealand Superannuation,Age Group,90 years and over,32610
+2023-12-01,New Zealand Superannuation,Age Group,90 years and over,32748
+2024-03-01,New Zealand Superannuation,Age Group,90 years and over,32988
+2019-03-01,New Zealand Superannuation,Ethinicity,European,563811
+2019-06-01,New Zealand Superannuation,Ethinicity,European,568887
+2019-09-01,New Zealand Superannuation,Ethinicity,European,573900
+2019-12-01,New Zealand Superannuation,Ethinicity,European,579324
+2020-03-01,New Zealand Superannuation,Ethinicity,European,584505
+2020-06-01,New Zealand Superannuation,Ethinicity,European,590334
+2020-09-01,New Zealand Superannuation,Ethinicity,European,597537
+2020-12-01,New Zealand Superannuation,Ethinicity,European,602979
+2021-03-01,New Zealand Superannuation,Ethinicity,European,608121
+2021-06-01,New Zealand Superannuation,Ethinicity,European,612891
+2021-09-01,New Zealand Superannuation,Ethinicity,European,618423
+2021-12-01,New Zealand Superannuation,Ethinicity,European,621960
+2022-03-01,New Zealand Superannuation,Ethinicity,European,626667
+2022-06-01,New Zealand Superannuation,Ethinicity,European,630675
+2022-09-01,New Zealand Superannuation,Ethinicity,European,636489
+2022-12-01,New Zealand Superannuation,Ethinicity,European,639486
+2023-03-01,New Zealand Superannuation,Ethinicity,European,644619
+2023-06-01,New Zealand Superannuation,Ethinicity,European,649989
+2023-09-01,New Zealand Superannuation,Ethinicity,European,655824
+2023-12-01,New Zealand Superannuation,Ethinicity,European,660807
+2024-03-01,New Zealand Superannuation,Ethinicity,European,666687
+2019-03-01,New Zealand Superannuation,Ethinicity,Māori,43500
+2019-06-01,New Zealand Superannuation,Ethinicity,Māori,44112
+2019-09-01,New Zealand Superannuation,Ethinicity,Māori,44733
+2019-12-01,New Zealand Superannuation,Ethinicity,Māori,45468
+2020-03-01,New Zealand Superannuation,Ethinicity,Māori,46107
+2020-06-01,New Zealand Superannuation,Ethinicity,Māori,46791
+2020-09-01,New Zealand Superannuation,Ethinicity,Māori,47820
+2020-12-01,New Zealand Superannuation,Ethinicity,Māori,48561
+2021-03-01,New Zealand Superannuation,Ethinicity,Māori,49152
+2021-06-01,New Zealand Superannuation,Ethinicity,Māori,49878
+2021-09-01,New Zealand Superannuation,Ethinicity,Māori,50700
+2021-12-01,New Zealand Superannuation,Ethinicity,Māori,51303
+2022-03-01,New Zealand Superannuation,Ethinicity,Māori,52041
+2022-06-01,New Zealand Superannuation,Ethinicity,Māori,52773
+2022-09-01,New Zealand Superannuation,Ethinicity,Māori,53634
+2022-12-01,New Zealand Superannuation,Ethinicity,Māori,54324
+2023-03-01,New Zealand Superannuation,Ethinicity,Māori,55224
+2023-06-01,New Zealand Superannuation,Ethinicity,Māori,55950
+2023-09-01,New Zealand Superannuation,Ethinicity,Māori,57042
+2023-12-01,New Zealand Superannuation,Ethinicity,Māori,58053
+2024-03-01,New Zealand Superannuation,Ethinicity,Māori,59088
+2019-03-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,22128
+2019-06-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,22488
+2019-09-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,22737
+2019-12-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,23106
+2020-03-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,23352
+2020-06-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,23694
+2020-09-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,24111
+2020-12-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,24381
+2021-03-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,24645
+2021-06-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,24690
+2021-09-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,24924
+2021-12-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,24909
+2022-03-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,25233
+2022-06-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,25425
+2022-09-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,25680
+2022-12-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,25839
+2023-03-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,26157
+2023-06-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,26400
+2023-09-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,26772
+2023-12-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,27063
+2024-03-01,New Zealand Superannuation,Ethinicity,Pacific Peoples,27438
+2019-03-01,New Zealand Superannuation,Ethinicity,Asian,38022
+2019-06-01,New Zealand Superannuation,Ethinicity,Asian,38910
+2019-09-01,New Zealand Superannuation,Ethinicity,Asian,39768
+2019-12-01,New Zealand Superannuation,Ethinicity,Asian,40746
+2020-03-01,New Zealand Superannuation,Ethinicity,Asian,41652
+2020-06-01,New Zealand Superannuation,Ethinicity,Asian,42537
+2020-09-01,New Zealand Superannuation,Ethinicity,Asian,43737
+2020-12-01,New Zealand Superannuation,Ethinicity,Asian,44709
+2021-03-01,New Zealand Superannuation,Ethinicity,Asian,45531
+2021-06-01,New Zealand Superannuation,Ethinicity,Asian,46248
+2021-09-01,New Zealand Superannuation,Ethinicity,Asian,47268
+2021-12-01,New Zealand Superannuation,Ethinicity,Asian,47943
+2022-03-01,New Zealand Superannuation,Ethinicity,Asian,49002
+2022-06-01,New Zealand Superannuation,Ethinicity,Asian,50046
+2022-09-01,New Zealand Superannuation,Ethinicity,Asian,51294
+2022-12-01,New Zealand Superannuation,Ethinicity,Asian,52194
+2023-03-01,New Zealand Superannuation,Ethinicity,Asian,53379
+2023-06-01,New Zealand Superannuation,Ethinicity,Asian,54438
+2023-09-01,New Zealand Superannuation,Ethinicity,Asian,55632
+2023-12-01,New Zealand Superannuation,Ethinicity,Asian,56598
+2024-03-01,New Zealand Superannuation,Ethinicity,Asian,57774
+2019-03-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,2772
+2019-06-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,2901
+2019-09-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,3114
+2019-12-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,3306
+2020-03-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,3465
+2020-06-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,3741
+2020-09-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4095
+2020-12-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4398
+2021-03-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4626
+2021-06-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4719
+2021-09-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4776
+2021-12-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4815
+2022-03-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4887
+2022-06-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,4944
+2022-09-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5046
+2022-12-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5109
+2023-03-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5220
+2023-06-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5322
+2023-09-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5427
+2023-12-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5481
+2024-03-01,New Zealand Superannuation,Ethinicity,Middle Eastern/Latin American/African,5589
+2019-03-01,New Zealand Superannuation,Ethinicity,Other ethnicity,11997
+2019-06-01,New Zealand Superannuation,Ethinicity,Other ethnicity,12318
+2019-09-01,New Zealand Superannuation,Ethinicity,Other ethnicity,12597
+2019-12-01,New Zealand Superannuation,Ethinicity,Other ethnicity,12948
+2020-03-01,New Zealand Superannuation,Ethinicity,Other ethnicity,13284
+2020-06-01,New Zealand Superannuation,Ethinicity,Other ethnicity,13737
+2020-09-01,New Zealand Superannuation,Ethinicity,Other ethnicity,14262
+2020-12-01,New Zealand Superannuation,Ethinicity,Other ethnicity,14709
+2021-03-01,New Zealand Superannuation,Ethinicity,Other ethnicity,15096
+2021-06-01,New Zealand Superannuation,Ethinicity,Other ethnicity,15429
+2021-09-01,New Zealand Superannuation,Ethinicity,Other ethnicity,15900
+2021-12-01,New Zealand Superannuation,Ethinicity,Other ethnicity,16227
+2022-03-01,New Zealand Superannuation,Ethinicity,Other ethnicity,16680
+2022-06-01,New Zealand Superannuation,Ethinicity,Other ethnicity,17187
+2022-09-01,New Zealand Superannuation,Ethinicity,Other ethnicity,17757
+2022-12-01,New Zealand Superannuation,Ethinicity,Other ethnicity,18105
+2023-03-01,New Zealand Superannuation,Ethinicity,Other ethnicity,18633
+2023-06-01,New Zealand Superannuation,Ethinicity,Other ethnicity,19137
+2023-09-01,New Zealand Superannuation,Ethinicity,Other ethnicity,19722
+2023-12-01,New Zealand Superannuation,Ethinicity,Other ethnicity,20247
+2024-03-01,New Zealand Superannuation,Ethinicity,Other ethnicity,20808
+2019-03-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,107577
+2019-06-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,107445
+2019-09-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106959
+2019-12-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106734
+2020-03-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106563
+2020-06-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106263
+2020-09-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,106245
+2020-12-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,105702
+2021-03-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,105357
+2021-06-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,104973
+2021-09-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,104058
+2021-12-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,103236
+2022-03-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,102504
+2022-06-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,101397
+2022-09-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,100617
+2022-12-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99738
+2023-03-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99369
+2023-06-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99228
+2023-09-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99207
+2023-12-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99138
+2024-03-01,New Zealand Superannuation,Ethinicity,Ethnicity not specified,99414
+2019-03-01,Veteran's Pension,Gender,Male,3492
+2019-06-01,Veteran's Pension,Gender,Male,3438
+2019-09-01,Veteran's Pension,Gender,Male,3363
+2019-12-01,Veteran's Pension,Gender,Male,3312
+2020-03-01,Veteran's Pension,Gender,Male,3264
+2020-06-01,Veteran's Pension,Gender,Male,3201
+2020-09-01,Veteran's Pension,Gender,Male,3231
+2020-12-01,Veteran's Pension,Gender,Male,3213
+2021-03-01,Veteran's Pension,Gender,Male,3192
+2021-06-01,Veteran's Pension,Gender,Male,3144
+2021-09-01,Veteran's Pension,Gender,Male,3090
+2021-12-01,Veteran's Pension,Gender,Male,3051
+2022-03-01,Veteran's Pension,Gender,Male,3009
+2022-06-01,Veteran's Pension,Gender,Male,3009
+2022-09-01,Veteran's Pension,Gender,Male,2967
+2022-12-01,Veteran's Pension,Gender,Male,2958
+2023-03-01,Veteran's Pension,Gender,Male,2916
+2023-06-01,Veteran's Pension,Gender,Male,2865
+2023-09-01,Veteran's Pension,Gender,Male,2877
+2023-12-01,Veteran's Pension,Gender,Male,2856
+2024-03-01,Veteran's Pension,Gender,Male,2853
+2019-03-01,Veteran's Pension,Gender,Female,3615
+2019-06-01,Veteran's Pension,Gender,Female,3528
+2019-09-01,Veteran's Pension,Gender,Female,3417
+2019-12-01,Veteran's Pension,Gender,Female,3342
+2020-03-01,Veteran's Pension,Gender,Female,3270
+2020-06-01,Veteran's Pension,Gender,Female,3189
+2020-09-01,Veteran's Pension,Gender,Female,3099
+2020-12-01,Veteran's Pension,Gender,Female,3051
+2021-03-01,Veteran's Pension,Gender,Female,2970
+2021-06-01,Veteran's Pension,Gender,Female,2886
+2021-09-01,Veteran's Pension,Gender,Female,2793
+2021-12-01,Veteran's Pension,Gender,Female,2733
+2022-03-01,Veteran's Pension,Gender,Female,2655
+2022-06-01,Veteran's Pension,Gender,Female,2571
+2022-09-01,Veteran's Pension,Gender,Female,2457
+2022-12-01,Veteran's Pension,Gender,Female,2403
+2023-03-01,Veteran's Pension,Gender,Female,2337
+2023-06-01,Veteran's Pension,Gender,Female,2268
+2023-09-01,Veteran's Pension,Gender,Female,2196
+2023-12-01,Veteran's Pension,Gender,Female,2151
+2024-03-01,Veteran's Pension,Gender,Female,2100
+2019-03-01,Veteran's Pension,Gender,Gender Diverse,0
+2019-06-01,Veteran's Pension,Gender,Gender Diverse,0
+2019-09-01,Veteran's Pension,Gender,Gender Diverse,0
+2019-12-01,Veteran's Pension,Gender,Gender Diverse,0
+2020-03-01,Veteran's Pension,Gender,Gender Diverse,0
+2020-06-01,Veteran's Pension,Gender,Gender Diverse,0
+2020-09-01,Veteran's Pension,Gender,Gender Diverse,0
+2020-12-01,Veteran's Pension,Gender,Gender Diverse,0
+2021-03-01,Veteran's Pension,Gender,Gender Diverse,0
+2021-06-01,Veteran's Pension,Gender,Gender Diverse,0
+2021-09-01,Veteran's Pension,Gender,Gender Diverse,0
+2021-12-01,Veteran's Pension,Gender,Gender Diverse,0
+2022-03-01,Veteran's Pension,Gender,Gender Diverse,0
+2022-06-01,Veteran's Pension,Gender,Gender Diverse,0
+2022-09-01,Veteran's Pension,Gender,Gender Diverse,0
+2022-12-01,Veteran's Pension,Gender,Gender Diverse,0
+2023-03-01,Veteran's Pension,Gender,Gender Diverse,0
+2023-06-01,Veteran's Pension,Gender,Gender Diverse,0
+2023-09-01,Veteran's Pension,Gender,Gender Diverse,0
+2023-12-01,Veteran's Pension,Gender,Gender Diverse,0
+2024-03-01,Veteran's Pension,Gender,Gender Diverse,0
+2019-03-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,315
+2019-06-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,312
+2019-09-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,306
+2019-12-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,300
+2020-03-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,297
+2020-06-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,291
+2020-09-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,279
+2020-12-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,270
+2021-03-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,270
+2021-06-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,264
+2021-09-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,261
+2021-12-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,255
+2022-03-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,252
+2022-06-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,249
+2022-09-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,249
+2022-12-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,237
+2023-03-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,240
+2023-06-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,225
+2023-09-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,222
+2023-12-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,216
+2024-03-01,Veteran's Pension,Receipt of additional support,Accommodation Supplement,219
+2019-03-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1974
+2019-06-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1926
+2019-09-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1845
+2019-12-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1785
+2020-03-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1734
+2020-06-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1671
+2020-09-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1614
+2020-12-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1563
+2021-03-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1500
+2021-06-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1449
+2021-09-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1401
+2021-12-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1368
+2022-03-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1320
+2022-06-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1290
+2022-09-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1233
+2022-12-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1191
+2023-03-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1143
+2023-06-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1101
+2023-09-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1050
+2023-12-01,Veteran's Pension,Receipt of additional support,Disability Allowance,1014
+2024-03-01,Veteran's Pension,Receipt of additional support,Disability Allowance,987
+2019-03-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,3
+2019-06-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,3
+2019-09-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+2019-12-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,3
+2020-03-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+2020-06-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+2020-09-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+2020-12-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+2021-03-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+2021-06-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+2021-09-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+2021-12-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+2022-03-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+2022-06-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+2022-09-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,6
+2022-12-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+2023-03-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+2023-06-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+2023-09-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+2023-12-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,9
+2024-03-01,Veteran's Pension,Receipt of additional support,Temporary Additional Support/Special Benefit,12
+2019-03-01,Veteran's Pension,Age Group,Under 60 years,39
+2019-06-01,Veteran's Pension,Age Group,Under 60 years,42
+2019-09-01,Veteran's Pension,Age Group,Under 60 years,36
+2019-12-01,Veteran's Pension,Age Group,Under 60 years,33
+2020-03-01,Veteran's Pension,Age Group,Under 60 years,33
+2020-06-01,Veteran's Pension,Age Group,Under 60 years,33
+2020-09-01,Veteran's Pension,Age Group,Under 60 years,33
+2020-12-01,Veteran's Pension,Age Group,Under 60 years,33
+2021-03-01,Veteran's Pension,Age Group,Under 60 years,30
+2021-06-01,Veteran's Pension,Age Group,Under 60 years,30
+2021-09-01,Veteran's Pension,Age Group,Under 60 years,27
+2021-12-01,Veteran's Pension,Age Group,Under 60 years,27
+2022-03-01,Veteran's Pension,Age Group,Under 60 years,24
+2022-06-01,Veteran's Pension,Age Group,Under 60 years,24
+2022-09-01,Veteran's Pension,Age Group,Under 60 years,21
+2022-12-01,Veteran's Pension,Age Group,Under 60 years,18
+2023-03-01,Veteran's Pension,Age Group,Under 60 years,12
+2023-06-01,Veteran's Pension,Age Group,Under 60 years,15
+2023-09-01,Veteran's Pension,Age Group,Under 60 years,15
+2023-12-01,Veteran's Pension,Age Group,Under 60 years,12
+2024-03-01,Veteran's Pension,Age Group,Under 60 years,9
+2019-03-01,Veteran's Pension,Age Group,60-64 years,57
+2019-06-01,Veteran's Pension,Age Group,60-64 years,60
+2019-09-01,Veteran's Pension,Age Group,60-64 years,60
+2019-12-01,Veteran's Pension,Age Group,60-64 years,57
+2020-03-01,Veteran's Pension,Age Group,60-64 years,57
+2020-06-01,Veteran's Pension,Age Group,60-64 years,57
+2020-09-01,Veteran's Pension,Age Group,60-64 years,54
+2020-12-01,Veteran's Pension,Age Group,60-64 years,57
+2021-03-01,Veteran's Pension,Age Group,60-64 years,54
+2021-06-01,Veteran's Pension,Age Group,60-64 years,51
+2021-09-01,Veteran's Pension,Age Group,60-64 years,45
+2021-12-01,Veteran's Pension,Age Group,60-64 years,36
+2022-03-01,Veteran's Pension,Age Group,60-64 years,33
+2022-06-01,Veteran's Pension,Age Group,60-64 years,36
+2022-09-01,Veteran's Pension,Age Group,60-64 years,33
+2022-12-01,Veteran's Pension,Age Group,60-64 years,30
+2023-03-01,Veteran's Pension,Age Group,60-64 years,24
+2023-06-01,Veteran's Pension,Age Group,60-64 years,21
+2023-09-01,Veteran's Pension,Age Group,60-64 years,24
+2023-12-01,Veteran's Pension,Age Group,60-64 years,27
+2024-03-01,Veteran's Pension,Age Group,60-64 years,27
+2019-03-01,Veteran's Pension,Age Group,65-69 years,501
+2019-06-01,Veteran's Pension,Age Group,65-69 years,474
+2019-09-01,Veteran's Pension,Age Group,65-69 years,441
+2019-12-01,Veteran's Pension,Age Group,65-69 years,411
+2020-03-01,Veteran's Pension,Age Group,65-69 years,387
+2020-06-01,Veteran's Pension,Age Group,65-69 years,372
+2020-09-01,Veteran's Pension,Age Group,65-69 years,390
+2020-12-01,Veteran's Pension,Age Group,65-69 years,390
+2021-03-01,Veteran's Pension,Age Group,65-69 years,393
+2021-06-01,Veteran's Pension,Age Group,65-69 years,393
+2021-09-01,Veteran's Pension,Age Group,65-69 years,384
+2021-12-01,Veteran's Pension,Age Group,65-69 years,396
+2022-03-01,Veteran's Pension,Age Group,65-69 years,390
+2022-06-01,Veteran's Pension,Age Group,65-69 years,402
+2022-09-01,Veteran's Pension,Age Group,65-69 years,405
+2022-12-01,Veteran's Pension,Age Group,65-69 years,411
+2023-03-01,Veteran's Pension,Age Group,65-69 years,423
+2023-06-01,Veteran's Pension,Age Group,65-69 years,420
+2023-09-01,Veteran's Pension,Age Group,65-69 years,426
+2023-12-01,Veteran's Pension,Age Group,65-69 years,438
+2024-03-01,Veteran's Pension,Age Group,65-69 years,459
+2019-03-01,Veteran's Pension,Age Group,70-74 years,1230
+2019-06-01,Veteran's Pension,Age Group,70-74 years,1227
+2019-09-01,Veteran's Pension,Age Group,70-74 years,1221
+2019-12-01,Veteran's Pension,Age Group,70-74 years,1221
+2020-03-01,Veteran's Pension,Age Group,70-74 years,1203
+2020-06-01,Veteran's Pension,Age Group,70-74 years,1182
+2020-09-01,Veteran's Pension,Age Group,70-74 years,1173
+2020-12-01,Veteran's Pension,Age Group,70-74 years,1149
+2021-03-01,Veteran's Pension,Age Group,70-74 years,1110
+2021-06-01,Veteran's Pension,Age Group,70-74 years,1065
+2021-09-01,Veteran's Pension,Age Group,70-74 years,1020
+2021-12-01,Veteran's Pension,Age Group,70-74 years,951
+2022-03-01,Veteran's Pension,Age Group,70-74 years,915
+2022-06-01,Veteran's Pension,Age Group,70-74 years,876
+2022-09-01,Veteran's Pension,Age Group,70-74 years,831
+2022-12-01,Veteran's Pension,Age Group,70-74 years,813
+2023-03-01,Veteran's Pension,Age Group,70-74 years,744
+2023-06-01,Veteran's Pension,Age Group,70-74 years,690
+2023-09-01,Veteran's Pension,Age Group,70-74 years,684
+2023-12-01,Veteran's Pension,Age Group,70-74 years,654
+2024-03-01,Veteran's Pension,Age Group,70-74 years,645
+2019-03-01,Veteran's Pension,Age Group,75-79 years,1227
+2019-06-01,Veteran's Pension,Age Group,75-79 years,1209
+2019-09-01,Veteran's Pension,Age Group,75-79 years,1194
+2019-12-01,Veteran's Pension,Age Group,75-79 years,1194
+2020-03-01,Veteran's Pension,Age Group,75-79 years,1194
+2020-06-01,Veteran's Pension,Age Group,75-79 years,1176
+2020-09-01,Veteran's Pension,Age Group,75-79 years,1179
+2020-12-01,Veteran's Pension,Age Group,75-79 years,1167
+2021-03-01,Veteran's Pension,Age Group,75-79 years,1167
+2021-06-01,Veteran's Pension,Age Group,75-79 years,1176
+2021-09-01,Veteran's Pension,Age Group,75-79 years,1179
+2021-12-01,Veteran's Pension,Age Group,75-79 years,1191
+2022-03-01,Veteran's Pension,Age Group,75-79 years,1185
+2022-06-01,Veteran's Pension,Age Group,75-79 years,1203
+2022-09-01,Veteran's Pension,Age Group,75-79 years,1227
+2022-12-01,Veteran's Pension,Age Group,75-79 years,1242
+2023-03-01,Veteran's Pension,Age Group,75-79 years,1266
+2023-06-01,Veteran's Pension,Age Group,75-79 years,1278
+2023-09-01,Veteran's Pension,Age Group,75-79 years,1257
+2023-12-01,Veteran's Pension,Age Group,75-79 years,1248
+2024-03-01,Veteran's Pension,Age Group,75-79 years,1215
+2019-03-01,Veteran's Pension,Age Group,80-84 years,1059
+2019-06-01,Veteran's Pension,Age Group,80-84 years,1059
+2019-09-01,Veteran's Pension,Age Group,80-84 years,1053
+2019-12-01,Veteran's Pension,Age Group,80-84 years,1059
+2020-03-01,Veteran's Pension,Age Group,80-84 years,1056
+2020-06-01,Veteran's Pension,Age Group,80-84 years,1035
+2020-09-01,Veteran's Pension,Age Group,80-84 years,1047
+2020-12-01,Veteran's Pension,Age Group,80-84 years,1053
+2021-03-01,Veteran's Pension,Age Group,80-84 years,1053
+2021-06-01,Veteran's Pension,Age Group,80-84 years,1050
+2021-09-01,Veteran's Pension,Age Group,80-84 years,1041
+2021-12-01,Veteran's Pension,Age Group,80-84 years,1062
+2022-03-01,Veteran's Pension,Age Group,80-84 years,1068
+2022-06-01,Veteran's Pension,Age Group,80-84 years,1056
+2022-09-01,Veteran's Pension,Age Group,80-84 years,1035
+2022-12-01,Veteran's Pension,Age Group,80-84 years,1017
+2023-03-01,Veteran's Pension,Age Group,80-84 years,1008
+2023-06-01,Veteran's Pension,Age Group,80-84 years,1002
+2023-09-01,Veteran's Pension,Age Group,80-84 years,1017
+2023-12-01,Veteran's Pension,Age Group,80-84 years,1023
+2024-03-01,Veteran's Pension,Age Group,80-84 years,1014
+2019-03-01,Veteran's Pension,Age Group,85-89 years,1053
+2019-06-01,Veteran's Pension,Age Group,85-89 years,1020
+2019-09-01,Veteran's Pension,Age Group,85-89 years,993
+2019-12-01,Veteran's Pension,Age Group,85-89 years,954
+2020-03-01,Veteran's Pension,Age Group,85-89 years,924
+2020-06-01,Veteran's Pension,Age Group,85-89 years,915
+2020-09-01,Veteran's Pension,Age Group,85-89 years,894
+2020-12-01,Veteran's Pension,Age Group,85-89 years,876
+2021-03-01,Veteran's Pension,Age Group,85-89 years,852
+2021-06-01,Veteran's Pension,Age Group,85-89 years,837
+2021-09-01,Veteran's Pension,Age Group,85-89 years,813
+2021-12-01,Veteran's Pension,Age Group,85-89 years,792
+2022-03-01,Veteran's Pension,Age Group,85-89 years,789
+2022-06-01,Veteran's Pension,Age Group,85-89 years,792
+2022-09-01,Veteran's Pension,Age Group,85-89 years,774
+2022-12-01,Veteran's Pension,Age Group,85-89 years,765
+2023-03-01,Veteran's Pension,Age Group,85-89 years,753
+2023-06-01,Veteran's Pension,Age Group,85-89 years,738
+2023-09-01,Veteran's Pension,Age Group,85-89 years,729
+2023-12-01,Veteran's Pension,Age Group,85-89 years,720
+2024-03-01,Veteran's Pension,Age Group,85-89 years,711
+2019-03-01,Veteran's Pension,Age Group,90 years and over,1938
+2019-06-01,Veteran's Pension,Age Group,90 years and over,1878
+2019-09-01,Veteran's Pension,Age Group,90 years and over,1782
+2019-12-01,Veteran's Pension,Age Group,90 years and over,1722
+2020-03-01,Veteran's Pension,Age Group,90 years and over,1686
+2020-06-01,Veteran's Pension,Age Group,90 years and over,1617
+2020-09-01,Veteran's Pension,Age Group,90 years and over,1560
+2020-12-01,Veteran's Pension,Age Group,90 years and over,1536
+2021-03-01,Veteran's Pension,Age Group,90 years and over,1500
+2021-06-01,Veteran's Pension,Age Group,90 years and over,1431
+2021-09-01,Veteran's Pension,Age Group,90 years and over,1380
+2021-12-01,Veteran's Pension,Age Group,90 years and over,1329
+2022-03-01,Veteran's Pension,Age Group,90 years and over,1260
+2022-06-01,Veteran's Pension,Age Group,90 years and over,1191
+2022-09-01,Veteran's Pension,Age Group,90 years and over,1095
+2022-12-01,Veteran's Pension,Age Group,90 years and over,1065
+2023-03-01,Veteran's Pension,Age Group,90 years and over,1020
+2023-06-01,Veteran's Pension,Age Group,90 years and over,972
+2023-09-01,Veteran's Pension,Age Group,90 years and over,921
+2023-12-01,Veteran's Pension,Age Group,90 years and over,894
+2024-03-01,Veteran's Pension,Age Group,90 years and over,864
+2019-03-01,Veteran's Pension,Ethinicity,European,4326
+2019-06-01,Veteran's Pension,Ethinicity,European,4269
+2019-09-01,Veteran's Pension,Ethinicity,European,4197
+2019-12-01,Veteran's Pension,Ethinicity,European,4143
+2020-03-01,Veteran's Pension,Ethinicity,European,4080
+2020-06-01,Veteran's Pension,Ethinicity,European,4008
+2020-09-01,Veteran's Pension,Ethinicity,European,4011
+2020-12-01,Veteran's Pension,Ethinicity,European,3993
+2021-03-01,Veteran's Pension,Ethinicity,European,3960
+2021-06-01,Veteran's Pension,Ethinicity,European,3915
+2021-09-01,Veteran's Pension,Ethinicity,European,3834
+2021-12-01,Veteran's Pension,Ethinicity,European,3792
+2022-03-01,Veteran's Pension,Ethinicity,European,3732
+2022-06-01,Veteran's Pension,Ethinicity,European,3693
+2022-09-01,Veteran's Pension,Ethinicity,European,3612
+2022-12-01,Veteran's Pension,Ethinicity,European,3588
+2023-03-01,Veteran's Pension,Ethinicity,European,3528
+2023-06-01,Veteran's Pension,Ethinicity,European,3474
+2023-09-01,Veteran's Pension,Ethinicity,European,3462
+2023-12-01,Veteran's Pension,Ethinicity,European,3432
+2024-03-01,Veteran's Pension,Ethinicity,European,3426
+2019-03-01,Veteran's Pension,Ethinicity,Māori,741
+2019-06-01,Veteran's Pension,Ethinicity,Māori,729
+2019-09-01,Veteran's Pension,Ethinicity,Māori,720
+2019-12-01,Veteran's Pension,Ethinicity,Māori,714
+2020-03-01,Veteran's Pension,Ethinicity,Māori,711
+2020-06-01,Veteran's Pension,Ethinicity,Māori,702
+2020-09-01,Veteran's Pension,Ethinicity,Māori,714
+2020-12-01,Veteran's Pension,Ethinicity,Māori,711
+2021-03-01,Veteran's Pension,Ethinicity,Māori,702
+2021-06-01,Veteran's Pension,Ethinicity,Māori,690
+2021-09-01,Veteran's Pension,Ethinicity,Māori,684
+2021-12-01,Veteran's Pension,Ethinicity,Māori,681
+2022-03-01,Veteran's Pension,Ethinicity,Māori,672
+2022-06-01,Veteran's Pension,Ethinicity,Māori,675
+2022-09-01,Veteran's Pension,Ethinicity,Māori,672
+2022-12-01,Veteran's Pension,Ethinicity,Māori,669
+2023-03-01,Veteran's Pension,Ethinicity,Māori,669
+2023-06-01,Veteran's Pension,Ethinicity,Māori,657
+2023-09-01,Veteran's Pension,Ethinicity,Māori,660
+2023-12-01,Veteran's Pension,Ethinicity,Māori,654
+2024-03-01,Veteran's Pension,Ethinicity,Māori,654
+2019-03-01,Veteran's Pension,Ethinicity,Pacific Peoples,48
+2019-06-01,Veteran's Pension,Ethinicity,Pacific Peoples,48
+2019-09-01,Veteran's Pension,Ethinicity,Pacific Peoples,48
+2019-12-01,Veteran's Pension,Ethinicity,Pacific Peoples,48
+2020-03-01,Veteran's Pension,Ethinicity,Pacific Peoples,48
+2020-06-01,Veteran's Pension,Ethinicity,Pacific Peoples,45
+2020-09-01,Veteran's Pension,Ethinicity,Pacific Peoples,45
+2020-12-01,Veteran's Pension,Ethinicity,Pacific Peoples,48
+2021-03-01,Veteran's Pension,Ethinicity,Pacific Peoples,48
+2021-06-01,Veteran's Pension,Ethinicity,Pacific Peoples,45
+2021-09-01,Veteran's Pension,Ethinicity,Pacific Peoples,45
+2021-12-01,Veteran's Pension,Ethinicity,Pacific Peoples,45
+2022-03-01,Veteran's Pension,Ethinicity,Pacific Peoples,48
+2022-06-01,Veteran's Pension,Ethinicity,Pacific Peoples,45
+2022-09-01,Veteran's Pension,Ethinicity,Pacific Peoples,42
+2022-12-01,Veteran's Pension,Ethinicity,Pacific Peoples,45
+2023-03-01,Veteran's Pension,Ethinicity,Pacific Peoples,42
+2023-06-01,Veteran's Pension,Ethinicity,Pacific Peoples,42
+2023-09-01,Veteran's Pension,Ethinicity,Pacific Peoples,42
+2023-12-01,Veteran's Pension,Ethinicity,Pacific Peoples,45
+2024-03-01,Veteran's Pension,Ethinicity,Pacific Peoples,45
+2019-03-01,Veteran's Pension,Ethinicity,Asian,39
+2019-06-01,Veteran's Pension,Ethinicity,Asian,36
+2019-09-01,Veteran's Pension,Ethinicity,Asian,33
+2019-12-01,Veteran's Pension,Ethinicity,Asian,39
+2020-03-01,Veteran's Pension,Ethinicity,Asian,39
+2020-06-01,Veteran's Pension,Ethinicity,Asian,39
+2020-09-01,Veteran's Pension,Ethinicity,Asian,39
+2020-12-01,Veteran's Pension,Ethinicity,Asian,39
+2021-03-01,Veteran's Pension,Ethinicity,Asian,42
+2021-06-01,Veteran's Pension,Ethinicity,Asian,39
+2021-09-01,Veteran's Pension,Ethinicity,Asian,39
+2021-12-01,Veteran's Pension,Ethinicity,Asian,39
+2022-03-01,Veteran's Pension,Ethinicity,Asian,39
+2022-06-01,Veteran's Pension,Ethinicity,Asian,42
+2022-09-01,Veteran's Pension,Ethinicity,Asian,39
+2022-12-01,Veteran's Pension,Ethinicity,Asian,39
+2023-03-01,Veteran's Pension,Ethinicity,Asian,36
+2023-06-01,Veteran's Pension,Ethinicity,Asian,36
+2023-09-01,Veteran's Pension,Ethinicity,Asian,39
+2023-12-01,Veteran's Pension,Ethinicity,Asian,36
+2024-03-01,Veteran's Pension,Ethinicity,Asian,36
+2019-03-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2019-06-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2019-09-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2019-12-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2020-03-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2020-06-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2020-09-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2020-12-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2021-03-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2021-06-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2021-09-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2021-12-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2022-03-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2022-06-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2022-09-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2022-12-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2023-03-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2023-06-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2023-09-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2023-12-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2024-03-01,Veteran's Pension,Ethinicity,Middle Eastern/Latin American/African,3
+2019-03-01,Veteran's Pension,Ethinicity,Other ethnicity,51
+2019-06-01,Veteran's Pension,Ethinicity,Other ethnicity,51
+2019-09-01,Veteran's Pension,Ethinicity,Other ethnicity,48
+2019-12-01,Veteran's Pension,Ethinicity,Other ethnicity,51
+2020-03-01,Veteran's Pension,Ethinicity,Other ethnicity,51
+2020-06-01,Veteran's Pension,Ethinicity,Other ethnicity,48
+2020-09-01,Veteran's Pension,Ethinicity,Other ethnicity,48
+2020-12-01,Veteran's Pension,Ethinicity,Other ethnicity,48
+2021-03-01,Veteran's Pension,Ethinicity,Other ethnicity,48
+2021-06-01,Veteran's Pension,Ethinicity,Other ethnicity,45
+2021-09-01,Veteran's Pension,Ethinicity,Other ethnicity,42
+2021-12-01,Veteran's Pension,Ethinicity,Other ethnicity,45
+2022-03-01,Veteran's Pension,Ethinicity,Other ethnicity,42
+2022-06-01,Veteran's Pension,Ethinicity,Other ethnicity,45
+2022-09-01,Veteran's Pension,Ethinicity,Other ethnicity,45
+2022-12-01,Veteran's Pension,Ethinicity,Other ethnicity,45
+2023-03-01,Veteran's Pension,Ethinicity,Other ethnicity,45
+2023-06-01,Veteran's Pension,Ethinicity,Other ethnicity,45
+2023-09-01,Veteran's Pension,Ethinicity,Other ethnicity,45
+2023-12-01,Veteran's Pension,Ethinicity,Other ethnicity,45
+2024-03-01,Veteran's Pension,Ethinicity,Other ethnicity,48
+2019-03-01,Veteran's Pension,Ethinicity,Ethnicity not specified,2022
+2019-06-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1950
+2019-09-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1851
+2019-12-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1779
+2020-03-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1731
+2020-06-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1665
+2020-09-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1596
+2020-12-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1548
+2021-03-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1488
+2021-06-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1413
+2021-09-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1359
+2021-12-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1302
+2022-03-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1251
+2022-06-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1200
+2022-09-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1140
+2022-12-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1104
+2023-03-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1062
+2023-06-01,Veteran's Pension,Ethinicity,Ethnicity not specified,1008
+2023-09-01,Veteran's Pension,Ethinicity,Ethnicity not specified,960
+2023-12-01,Veteran's Pension,Ethinicity,Ethnicity not specified,921
+2024-03-01,Veteran's Pension,Ethinicity,Ethnicity not specified,873
